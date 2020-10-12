@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="~{admin.html}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap CSS, JS, Font Awesome here-->
+
+    <title>Trang Chủ QT-DESIGN</title>
+</head>
+
+<body ng-app="myApp">
+<div layout:fragment="content" id="fixSection">
+    <!--Slideshow-Trung làm-->
+    <div class="slideshow-container">
+
+        <div class="mySlides fade">
+            <div class="numbertext">1 / 3</div>
+            <img src="image/imageslide/imageslide1.jpg" style="width:100%">
+            <div class="textslide">Caption Text</div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="numbertext">2 / 3</div>
+            <img src="image/imageslide/imageslide2.jpg" style="width:100%">
+            <div class="textslide">Caption Two</div>
+        </div>
+
+        <div class="mySlides fade">
+            <div class="numbertext">3 / 3</div>
+            <img src="image/imageslide/imageslide3.jpg" style="width:100%">
+            <div class="textslide">Caption Three</div>
+        </div>
+
+    </div>
+    <br>
+
+    <div style="text-align:center">
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+    </div>
+    <!--End slideshow-Trung làm -->
+
+    <!-- Text Welcome-Trung làm-->
+    <div class="textwelcome">
+        <h3>Chào mừng bạn đến với QT-Design!</h3>
+        <p>"QT- Design" với đội ngũ nhân viên thiết kế trẻ trung, năng động và luôn cập nhập các xu hướng thiết kế .
+            Chúng tôi tự tin và cam kết mang lại dịch vụ tốt nhất, chuyên nghiệp cho khách hàng.
+            Dưới đây là những dịch vụ chính của QT- Design
+        </p>
+    </div>
+    <!-- End welcome-Trung làm-->
+
+    <!--Service-->
+   
+
+        <section id="qt-content" class="container-fluid bg-over">
+        <div class="row justify-content-md-center">
+            <a  href="/bigduan/menu.html" class="col-lg-2 col-md-3 col-sm-6 col-xs-12 item">
+                <img src="./image/imageservice/beeartlogo.png" alt="Thiet ke logo">
+                <h4>THIẾT KẾ MENU</h4>
+            </a>
+            <a href="/bigduan/banner.html" class="col-lg-2 col-md-3 col-sm-6 col-xs-12 item">
+                <img src="./image/imageservice/beeartbrand.png" alt="Thiet ke logo">
+                <h4>THIẾT KẾ BANNER</h4>
+            </a>
+            <a href="/bigduan/vanphong.html" class="col-lg-2 col-md-3 col-sm-6 col-xs-12  item">
+                <img src="./image/imageservice/beeartweb.png" alt="Thiet ke logo">
+                <h4>THIẾT KẾ VĂN PHÒNG</h4>
+            </a>
+            <a href="/bigduan/thiepcuoi.html" class="col-lg-2 col-md-3 col-sm-6 col-xs-12 item">
+                <img src="./image/imageservice/beeartprint.png" alt="Thiet ke logo">
+                <h4>THIẾT KẾ THIỆP CƯỚI</h4>
+            </a>
+        </div>
+    </section>
+  <!-- Text Welcome-Trung làm-->
+  <div class="filter1">
+      <br>
+    <h3>Dự án đã thực hiện</h3>
+    <p>Dưới đây là một số dự án mới nhất chúng tôi đã thực hiện.
+    </p>
+</div>
+<section id="services" class="services section-bg"> 
+  
+    <div ng-controller="subjectCtrl" class="row">
+
+      
+        <div ng-controller="subjectCtrl" >
+            <div class="row">
+            <div data-aos="zoom-in-up" class=" code--left col-lg-3 col-md-6 col-sm-6 col-xs-12 "   ng-repeat="subject in list_subject|limitTo:12:begin">
+                <div class="card-category">
+                    <div class="card-category-image-hover">
+                        <img width="100%" height="300px" class="bx bxl-dribbble" src="./image/sanphamdemo/banner/{{subject.logo}}">
+                    </div>
+                    <span class="card-category-title"></span>
+                    <div class="card-category-overlay">
+                        <span class="card-category-title-show"></span>
+                        <ul>
+                            <li><a href="#">{{subject.name}}</a></li>
+                        </ul>
+                    </div>
+                </div>
+     </div></div></div></div>
+       
+<br><br>
+     <div class="nutLienhe">
+    
+        <button  type="button" class="mx-auto p-1 btn btn-warning" style="font-weight: bold; font-size: 80%;"><a href="/bigduan/duan.html">Xem nhiều hơn</a>   </button>
+    </div>
+    
+      <br>
+    
+
+  </section>
+<!-- End welcome-Trung làm-->
+<!--End Service-->
+
+
+<!-- Customer khương làm -->
+
+<section id="information" class="bg-over">
+    <div class="row justify-content-md-center" >
+        <div class="col-lg-2 col-md-3 col-sm-6 col-xs-6 item">
+            <div class="info">
+                <span>1</span>
+            </div>
+            <p>CUNG CẤP</p> 
+             <p style="margin-top: 5px;">Thông Tin</p>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 col-xs-6 item">
+            <div class="info">
+                <span>2</span>
+            </div>
+            <p>NGHIÊN CỨU</p>
+            <p style="margin-top: 5px;">PHÁC THẢO Ý TƯỞNG</p>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 col-xs-6  item">
+            <div class="info">
+                <span>3</span>
+            </div>
+            <p>HOÀN THIỆN</p>
+            <p style="margin-top: 5px;">THIẾT KẾ</p>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6 col-xs-6 item ">
+            <div class="info">
+                <span>4</span>
+            </div>
+            <p>BÀN GIAO</p>
+            <p style="margin-top: 5px;">SẢN PHẨM</p>
+        </div>
+    </div>
+
+</section>
+          <!-- end costumer-->
+
+          <!-- Text Trinh làm-->
+<div class="textBanCanThietKe">
+    <div style="text-align:center">
+        <br>
+        <h5 style="letter-spacing: 5px;">BẠN CẦN THIẾT KẾ? CHÚNG TÔI LÀ MỘT AI ĐÓ CÓ THỂ TIN TƯỞNG!</h5>
+      </div>
+    </div>
+    <!-- End Text Trinh làm-->
+    <!-- Nut Lien he Trinh làm-->
+    </br>
+    <div class="nutLienhe">
+    
+        <button type="button" class="mx-auto p-1 btn btn-warning" style="font-weight: bold; font-size: 80%;"><a href="/Lienhe.html">LIÊN HỆ NGAY</a></button>
+    </div>
+    <!-- End Nut Lien he Trinh làm-->
+    </br>
+    <!-- banner Trinh làm-->
+    <img data-aos="zoom-in-up"  class="code--left img-fluid" src="image/banner/banner.jpg" alt="Chania" style="width:100%"> 
+    
+    <!-- end banner Trinh làm-->
+<!-- footer -->
+</div>
+</body>
+
+</html>

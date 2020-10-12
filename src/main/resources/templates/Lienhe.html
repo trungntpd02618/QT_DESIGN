@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="~{admin.html}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Liên Hệ QT-DESIGN</title>
+</head>
+
+<body>
+<div layout:fragment="content" id="fixSection">
+   <!-- Title-->
+    <div class="nav-title">
+        <div class="nav-title-card">
+            <h4>Liên hệ</h4>
+            <p><a href="/index.html">Trang Chủ</a>-Liên hệ</p>
+        </div>
+    </div>
+    <!--end title-->
+
+    <form action="https://www.beeart.vn/Contact/Save" method="post" novalidate="novalidate"><input
+            name="__RequestVerificationToken" type="hidden"
+            value="uc8jmI_KrrhOKMZqRSBKjIgV3JeDS_Gi60OTviM0vw18Phx6qzbINAVRug6KEmXd9tyHD8siswc7YYJgxAU7ZvaZI2tZXw5WnRl2a6cPatQ1">
+        <section id="content">
+            <div class="container pad-lr clearfix">
+
+                <aside>
+                    <div class="box support">
+                        <h5>Thiết kế thương hiệu</h5>
+                        <ul>
+                            <li class="address">
+                                <b>TP ĐN:</b> 188 Lê Trọng Tấn, Hoà Phát, Cẩm Lệ, Đà Nẵng
+                                <p><b>TP HCM:</b> Lầu 2, 704 Phan Văn Trị, Phường 10, Gò Vấp, Thành phố Hồ Chí Minh.</p>
+                            </li>
+                            <li class="phone"><a href="tel:0773456718">077.3456.718</a></li>
+                            <li class="mail">info@beeart.vn</li>
+                            <li class="facebook"><a href="https://fb.com/beeart.vn" target="_blank">fb.com/beeart.vn</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="box supportmaps">
+
+                        <h5>Hệ thống văn phòng đại diện</h5>
+                        <ul>
+                            <li class="maps">
+                                khách hàng có thể liên hệ thông qua các chi nhánh hoặc văn phòng đại diện, văn phòng giao
+                                dịch của chúng tôi. Xin cám ơn!
+                            </li>
+                        </ul>
+                    </div>
+
+
+                </aside>
+                <div class="article">
+                    <div class="row" style="text-align:center;">
+                        <h4>Nếu bạn có bất kỳ thắc mắc nào, xin vui lòng liên lạc qua điện thoại, email hoặc điền vào mẫu
+                            theo thông tin bên dưới.</h4>
+                    </div>
+                    <div class="itct clearfix">
+                        <div class="cotcl1">
+                            <input class="form-control" data-val="true" data-val-required="Xin vui lòng nhập tên bạn"
+                                   id="txtCusName" name="u_cusname" placeholder="Họ và tên (*)" type="text" value="">
+                            <span class="field-validation-valid" data-valmsg-for="u_cusname"
+                                  data-valmsg-replace="false"> </span>
+                        </div>
+                        <div class="cotcl2">
+                            <input class="form-control" id="txtCusAdd" name="u_cusadd" placeholder="Địa chỉ liên hệ"
+                                   type="text" value="">
+                        </div>
+                    </div>
+                    <div class="itct clearfix">
+                        <div class="cotcl1">
+                            <input class="form-control" data-val="true" data-val-required="Xin vui lòng nhập email của bạn"
+                                   id="txtEmail" name="u_cusmail" placeholder="Email liên hệ (*)" type="text" value="">
+                            <span class="field-validation-valid text-danger" data-valmsg-for="u_cusmail"
+                                  data-valmsg-replace="false"> </span>
+                        </div>
+                        <div class="cotcl2">
+                            <input class="form-control" data-val="true"
+                                   data-val-required="Xin vui lòng nhập số điện thoại liên hệ" id="txtPhone"
+                                   name="u_cusphone" placeholder="Số điện thoại (*)" type="text" value="">
+                            <span class="field-validation-valid text-danger" data-valmsg-for="u_cusphone"
+                                  data-valmsg-replace="false"> </span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div style="width:100%;padding-right:15px;">
+                            <input class="form-control" id="txtSuject" name="u_subject" placeholder="Tiêu đề" type="text"
+                                   value="">
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <div style="width:100%;padding-right:15px;">
+                        <textarea class="form-controlarea" cols="20" data-val="true"
+                                  data-val-required="Xin vui lòng nhập nội dung liên hệ" id="txtContent"
+                                  name="u_content" placeholder="Nội dung liên hệ (*)" rows="2"></textarea>
+                            <span class="field-validation-valid text-danger" data-valmsg-for="u_content"
+                                  data-valmsg-replace="false"> </span>
+                        </div>
+
+                    </div>
+                    <div class="row">
+                        <button type="submit" id="btnSubmit" class="button"
+                                style="margin-left:0px;font-family:'Open Sans&#39',Arial,sans-serif;">Gửi tin nhắn
+                        </button>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+    </form>
+
+    <section id="maps">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.5714996769475!2d108.18037821355459!3d16.03580658890152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314219629aab3d31%3A0x69329524d2bdf5f4!2sQT-DATA%20Inc%20%26%20CMT-Dragon!5e0!3m2!1svi!2s!4v1600675665012!5m2!1svi!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    </section>
+
+
+
+</div>
+</body>
+
+</html>

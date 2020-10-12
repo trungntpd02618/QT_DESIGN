@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="~{admin.html}">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body ng-app="myApp">
+<div layout:fragment="content" id="fixSection">
+<div th:if="${message != null}">
+			<span th:text="${message}"></span>
+
+		</div>
+		<form ng-controller="registerCtrl" th:action="@{/projects/saveOrUpdate}" th:object="${projectDto}"
+			method="post" enctype="multipart/form-data" >
+			 Name: <input ng-model="projects.name"
+				type="text" th:field="*{name}" /> <br /> <span
+				th:if="${#fields.hasErrors('name')}" th:errors="*{name}">
+				Empty FirstName</span> <br>
+			 Category: <input ng-model="projects.category" type="text" th:field="*{category}" />
+			<br /> <span th:if="${#fields.hasErrors('category')}"
+				th:errors="*{category}"> Empty Category</span> <br>
+			
+				Photo:	<div class="ads">
+				<img th:if="${id > 0 }" th:src="@{'/getimage/' + *{id}}"/> </div>
+			<input ng-model="projects.logo" type="file" th:field="*{image}" /> <br/>	
+				 <br>
+				<input ng-click="addUser()" class="button"
+				style="font-size: 20px" type="submit" value="Add" th:if="${id <= 0}" />
+			<input style="font-size: 20px" type="submit" value="Update"
+				th:if="${id > 0 }" class="button" />
+			<hr>
+			<hr>
+
+		</form>
+		<hr>
+	</div>
+</body>
+</html>

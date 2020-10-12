@@ -1,0 +1,32 @@
+.content-info {
+    text-align: right;
+    color: #a0a0a0;
+    font-size: 12px;
+    padding-top: 15px;
+  }
+  .content-date {
+    width: 120%;
+    background: url(/image/logo/lich.svg) no-repeat;
+    padding-left: 20px;
+  }
+  .box {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+  .box h5 {
+      color: white;
+    font-size: 18px;
+    font-weight: 600;
+    display: block;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+  }
+  .box a{
+      color:white;
+  }
+  .box li{
+      margin-top: 20px;
+  }

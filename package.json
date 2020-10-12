@@ -1,0 +1,14 @@
+{
+  "name": "qt_design",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch src/main/resources/static/dbproject.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}

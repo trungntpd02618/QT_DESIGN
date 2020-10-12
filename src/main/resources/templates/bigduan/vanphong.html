@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="~{admin.html}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Văn Phòng QT-DESIGN</title>
+</head>
+
+<body ng-app="myApp">
+   <div layout:fragment="content" id="fixSection">
+    <!-- Title-->
+    <div class="nav-title">
+        <div class="nav-title-card">
+            <h4>Decor Văn Phòng, Nhà Ở</h4>
+            <p><a href="/index.html">Trang Chủ</a>-Dự án</p>
+        </div>
+    </div>
+    <!--end title-->
+    <!--Menu-->
+    <div class="menu-title">
+        <ul class="filter1">
+            <li>
+                <a href="/bigduan/duan.html">Tất cả</a>
+            </li>
+            <li>
+                <a href="/bigduan/menu.html" class="nomal">Thiết kế menu</a>
+            </li>
+            <li>
+                <a href="/bigduan/banner.html" class="nomal">Thiết kế banner</a>
+            </li>
+            <li>
+                <a href="/bigduan/vanphong.html" class="nomal">Thiết kế văn phòng</a>
+            </li>
+        </ul>
+    </div>
+    <section id="services" class="services section-bg">
+
+        <div ng-controller="subjectCtrl">
+
+            <div class="row">
+                <div ng-controller="subjectCtrl" class="container-fluid padding mt-5">
+                    <div class="row">
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 "
+                            ng-repeat="subject in list_subject|filter : 'VANPHONG'|limitTo:12:begin">
+                            <div class="card-category">
+                                <div class="card-category-image-hover">
+                                    <img width="100%" height="300px" class="bx bxl-dribbble"
+                                        src="/image/sanphamdemo/banner/{{subject.logo}}">
+                                </div>
+                                <span class="card-category-title"></span>
+                                <div class="card-category-overlay">
+                                    <span class="card-category-title-show"></span>
+                                    <ul>
+                                        <li><a href="#">{{subject.name}}</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div> <br>
+                    <div class="justify-content-md-center offset-lg-5">
+                        <button type="button" ng-click="first()" class="btn btn-info">First</button>
+                        <button type="button" ng-click="prev()" class="btn btn-info">Prev</button>
+                        <button type="button" ng-click="next()" class="btn btn-info">Next</button>
+                        <button type="button" ng-click="last()" class="btn btn-info">Last</button> </div>
+                </div>
+            </div>
+            <br>
+        </div>
+    </section>
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,910 @@
+{
+  "projects": [
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp 1.jpg",
+      "id": "1"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp 2.jpg",
+      "id": "2"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp 3.jpg",
+      "id": "3"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp 4.jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp 5.jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp 6.jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp 7.jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp 12.jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp1.jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp2.jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "Vp3.jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp4..jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "vp5.jpg"
+    },
+    {
+      "category": "VANPHONG",
+      "name": "THIáº¾T Káº¾ VÄ‚N PHÃ’NG CHO CÃ”NG TY VÃ€ NHÃ€ á»ž  Ä�áº¸P",
+      "logo": "Sáº¯p xáº¿p bÃ n lÃ m viá»‡c Ä‘Æ¡n giáº£n Ä‘á»™c Ä‘Ã¡o.jpg"
+    },
+    {
+      "category": "BANNER",
+      "name": "Thiáº¿t káº¿ banner Ä‘áº¹p",
+      "logo": "BNM 1 (1).jpg"
+    },
+    {
+      "category": "BANNER",
+      "name": "Thiáº¿t káº¿ banner Ä‘áº¹p",
+      "logo": "BNM 1 (2).jpg"
+    },
+    {
+      "category": "BANNER",
+      "name": "Thiáº¿t káº¿ banner Ä‘áº¹p",
+      "logo": "BNM 1 (3).jpg"
+    },
+    {
+      "category": "BANNER",
+      "name": "Thiáº¿t káº¿ banner Ä‘áº¹p",
+      "logo": "BNM 1 (4).jpg"
+    },
+    {
+      "category": "BANNER",
+      "name": "Thiáº¿t káº¿ banner Ä‘áº¹p",
+      "logo": "BNM1 (5).jpg"
+    },
+    {
+      "category": "BANNER",
+      "name": "Thiáº¿t káº¿ banner Ä‘áº¹p",
+      "logo": "Cosmetic_by Mario.jpg"
+    },
+    {
+      "category": "BANNER",
+      "name": "Thiáº¿t káº¿ banner Ä‘áº¹p",
+      "logo": "Cosmetic_by Mario(1).jpg"
+    },
+    {
+      "category": "BANNER",
+      "name": "Thiáº¿t káº¿ banner Ä‘áº¹p",
+      "logo": "Trung thu_by Mario.jpg"
+    },
+    {
+      "category": "MENU",
+      "name": "Menu thiáº¿t káº¿ Ä‘áº¹p, báº¯t máº¯t",
+      "logo": "menu lÃ¡.jpg"
+    },
+    {
+      "category": "MENU",
+      "name": "Menu thiáº¿t káº¿ Ä‘áº¹p, báº¯t máº¯t",
+      "logo": "Menu ná»�n gá»—.jpg"
+    },
+    {
+      "category": "MENU",
+      "name": "Menu thiáº¿t káº¿ Ä‘áº¹p, báº¯t máº¯t",
+      "logo": "menu phong cÃ¡ch cá»• Ä‘iá»ƒn 1.jpg"
+    },
+    {
+      "category": "MENU",
+      "name": "Menu thiáº¿t káº¿ Ä‘áº¹p, báº¯t máº¯t",
+      "logo": "menu phong cÃ¡ch cá»• Ä‘iá»ƒn.jpg"
+    },
+    {
+      "category": "MENU",
+      "name": "Menu thiáº¿t káº¿ Ä‘áº¹p, báº¯t máº¯t",
+      "logo": "menu phong cÃ¡ch tá»‘i giáº£n.jpg"
+    },
+    {
+      "category": "MENU",
+      "name": "Menu thiáº¿t káº¿ Ä‘áº¹p, báº¯t máº¯t",
+      "logo": "menu phong cÃ¡ch tá»‘i giáº£n(1).jpg"
+    },
+    {
+      "category": "MENU",
+      "name": "Menu thiáº¿t káº¿ Ä‘áº¹p, báº¯t máº¯t",
+      "logo": "menu tÃ´ng Ä‘en Ä‘á»�.jpg"
+    },
+    {
+      "category": "MENU",
+      "name": "Menu thiáº¿t káº¿ Ä‘áº¹p, báº¯t máº¯t",
+      "logo": "menu tÃ´ng mÃ u Ä‘en Ä‘á»�.jpg"
+    },
+    {
+      "category": "MENU",
+      "name": "Menu thiáº¿t káº¿ Ä‘áº¹p, báº¯t máº¯t",
+      "logo": "menu hoa lÃ¡ .jpg"
+    },
+    {
+      "category": "THIEPCUOI",
+      "name": "THIáº¾T Káº¾ THIá»†P CÆ¯á»šI Ä�áº¸P",
+      "logo": "1024W_F_197101576_rn2BXbmVc1LI08LDxrOhZTSwyPapX4uF_NW1.jpg"
+    },
+    {
+      "category": "THIEPCUOI",
+      "name": "THIáº¾T Káº¾ THIá»†P CÆ¯á»šI Ä�áº¸P",
+      "logo": "1024W_F_255258287_Cx5F8xWUg4Acy71bq85w0HyPungZz3k1_NW1.jpg"
+    },
+    {
+      "category": "THIEPCUOI",
+      "name": "THIáº¾T Káº¾ THIá»†P CÆ¯á»šI Ä�áº¸P",
+      "logo": "1024W_F_255259383_5DNmLzCqCKUgFYPuxfzWuCQyKCcCb7VW_NW1.jpg"
+    },
+    {
+      "category": "THIEPCUOI",
+      "name": "THIáº¾T Káº¾ THIá»†P CÆ¯á»šI Ä�áº¸P",
+      "logo": "1024W_F_274095490_MLXypaWu4z04OW3hcWiSLiXoft8VRwhd_NW1.jpg"
+    },
+    {
+      "category": "THIEPCUOI",
+      "name": "THIáº¾T Káº¾ THIá»†P CÆ¯á»šI Ä�áº¸P",
+      "logo": "1024W_F_329176685_2nU9y6IKeYv24bG5N4nMm6TWZhkOYwUQ_NW1.jpg"
+    },
+    {
+      "category": "THIEPCUOI",
+      "name": "THIáº¾T Káº¾ THIá»†P CÆ¯á»šI Ä�áº¸P",
+      "logo": "Untitled-1.jpg"
+    },
+    {
+      "category": "THIEPCUOI",
+      "name": "THIáº¾T Káº¾ THIá»†P CÆ¯á»šI Ä�áº¸P",
+      "logo": "1024W_F_197101576_rn2BXbmVc1LI08LDxrOhZTSwyPapX4uF_NW1.jpg"
+    },
+    {
+      "category": "BAOBI",
+      "name": "THIáº¾T Káº¾ BAO BÃŒ Sáº¢N PHáº¨M  Ä�áº¸P",
+      "logo": "1024W_F_310234062_rvwYt8pXWLO5FMb5NRWOnuNJhTHhlaZS_NW1.jpg"
+    },
+    {
+      "category": "BAOBI",
+      "name": "THIáº¾T Káº¾ BAO BÃŒ Sáº¢N PHáº¨M  Ä�áº¸P",
+      "logo": "1024W_F_341383614_DDeg6e8RCiXt9XVt5FvKglvFwis2BRwF_NW1.jpg"
+    },
+    {
+      "name": "HHHHHHHHHHHHHH",
+      "category": "MENU",
+      "logo": "trung.jpg",
+      "id": "KeJwkT4"
+    }
+  ],
+  "services": [
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo tháº©m má»¹ KAYLA",
+      "logo": "1.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo háº£i sáº£n chá»£ ta",
+      "logo": "2.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo báº¥t Ä‘á»™ng sáº£n SALENHA",
+      "logo": "3.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo kinh doanh váº­t liÃªu xÃ¢y dá»±ng GFRC Viá»‡t Nam",
+      "logo": "4.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo kinh doanh cÃ¢y xanh táº¡p hÃ³a Minh Tráº§n",
+      "logo": "5.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo thá»�i trang tráº» em BONBON",
+      "logo": "6.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo áº©m thá»±c KAEN",
+      "logo": "7.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo thá»�i rang MINA Nguyá»…n",
+      "logo": "8.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "MThiáº¿t káº¿ logo cÃ¢u láº¡c bá»™ vÃµ thuáº­t BRAINIAC SQUAD",
+      "logo": "9.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo tÆ° váº¥n thiáº¿t káº¿ xÃ¢y dá»±ng QSCONS",
+      "logo": "10.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo nÆ°á»›c uá»‘ng BLUE TEA",
+      "logo": "11.jpg"
+    },
+    {
+      "category": "TKLG",
+      "name": "Thiáº¿t káº¿ logo áº©m thá»±c nhÃ  tÃ´i",
+      "logo": "12.jpg"
+    },
+    {
+      "category": "NDTH",
+      "name": "Thiáº¿t káº¿ bao bÃ¬ Beer Dá»©a",
+      "logo": "1ndth.jpg"
+    },
+    {
+      "category": "NDTH",
+      "name": "Thiáº¿t káº¿ nháº­n diá»‡n COFFEE Thanh HÆ°Æ¡ng",
+      "logo": "2ndth.jpg"
+    },
+    {
+      "category": "NDTH",
+      "name": "Thiáº¿t káº¿ bá»™ NDTH SEN RiVER SPA",
+      "logo": "3ndth.jpg"
+    },
+    {
+      "category": "NDTH",
+      "name": "Thiáº¿t káº¿ nháº­n diá»‡n du lá»‹ch 4F VISA",
+      "logo": "4ndth.jpg"
+    },
+    {
+      "category": "NDTH",
+      "name": "Thiáº¿t káº¿ nháº­n diá»‡n xÃ¢y dá»±ng KEIZI",
+      "logo": "5ndth.jpg"
+    },
+    {
+      "category": "NDTH",
+      "name": "Thiáº¿t káº¿ nháº­n diá»‡n má»¹ pháº©m WS COSMETIC",
+      "logo": "6ndth.jpg"
+    },
+    {
+      "category": "NDTH",
+      "name": "Thiáº¿t káº¿ nháº­n diá»‡n VITEA LAND",
+      "logo": "7ndth.jpg"
+    },
+    {
+      "category": "NDTH",
+      "name": "Thiáº¿t káº¿ nháº­n diá»‡n Viá»‡t Gia PhÃ¡t",
+      "logo": "8ndth.jpg"
+    },
+    {
+      "category": "NDTH",
+      "name": "Thiáº¿t káº¿ nhÃ¢n diá»‡n HAN FRUID GARDEN",
+      "logo": "9ndth.jpg"
+    }
+  ],
+  "blog": [
+    {
+      "title": "15 phÃ´ng chá»¯ thiáº¿t káº¿ logo tá»‘t nháº¥t nÄƒm 2020",
+      "category": "TinTuc",
+      "image": "1tt.PNG",
+      "content": "Náº¿u báº¡n Ä‘ang tÃ¬m kiáº¿m má»™t phÃ´ng chá»¯ thiáº¿t káº¿ logo Ä‘á»ƒ khá»Ÿi Ä‘áº§u cho sá»± thay Ä‘á»•i cá»§a thÆ°Æ¡ng hiá»‡u trong tháº­p ká»· má»›i thÃ¬ Ä‘á»«ng bá»� qua bÃ i viáº¿t dÆ°á»›i Ä‘Ã¢y. Bee Art sáº½ giá»›i thiá»‡u tá»›i báº¡n 15 phÃ´ng chá»¯ dá»± Ä‘oÃ¡n s...",
+      "date": "29/01/2020"
+    },
+    {
+      "title": "11 xu hÆ°á»›ng thiáº¿t káº¿ logo hot nháº¥t nÄƒm 2020",
+      "category": "TinTuc",
+      "image": "2tt.PNG",
+      "content": "Má»™t tháº­p ká»· má»›i Ä‘Ã£ báº¯t Ä‘áº§u, vÃ  Ä‘Ã¢y lÃ  thá»�i Ä‘iá»ƒm hoÃ n háº£o Ä‘á»ƒ báº¡n lÃ m má»›i hÃ¬nh áº£nh Ä‘áº¡i diá»‡n quan trá»�ng nháº¥t cá»§a doanh nghiá»‡p. Xu hÆ°á»›ng thiáº¿t káº¿ logo má»›i cho nÄƒm 2020 Ä‘Ã£ xuáº¥t hiá»‡n vÃ  hÃ£y cÃ¹ng Bee Art Ä‘i...",
+      "date": "18/01/2020"
+    },
+    {
+      "title": "7 thÆ°Æ¡ng hiá»‡u thiáº¿t káº¿ láº¡i logo tá»‘t nháº¥t nÄƒm 2019",
+      "category": "TinTuc",
+      "image": "3tt.PNG",
+      "content": "NÄƒm 2019 khÃ©p láº¡i vá»›i nhiá»�u sá»± thay Ä‘á»•i, Ä‘áº·c biá»‡t Ä‘áº¿n tá»« logo vÃ  bá»™ nháº­n diá»‡n cá»§a cÃ¡c thÆ°Æ¡ng hiá»‡u ná»•i tiáº¿ng nháº¥t tháº¿ giá»›i. HÃ£y cÃ¹ng BeeArt nhÃ¬n láº¡i 7 thÆ°Æ¡ng hiá»‡u thiáº¿t káº¿ láº¡i logo tá»‘t nháº¥t trong nÄƒm ...",
+      "date": "05/01/2020"
+    },
+    {
+      "title": "8 Thiáº¿t káº¿ Poster áº¤n tÆ°á»£ng nháº¥t LiÃªn hoan Phim Quá»‘c táº¿ Toronto",
+      "category": "TinTuc",
+      "image": "4tt.PNG",
+      "content": "Tá»« nhá»¯ng bá»™ phim truyá»�n hÃ¬nh Ä‘áº«m nÆ°á»›c máº¯t Ä‘áº¿n nhá»¯ng bá»™ phim khoa há»�c viá»…n tÆ°á»Ÿng vá»� vÅ© trá»¥, thiáº¿t káº¿ poster luÃ´n Ä‘Ã³ng vai trÃ² thiáº¿t yáº¿u trong viá»‡c quáº£ng bÃ¡ má»™t bá»™ phim. Poster lÃ  sáº£n pháº©m marketing cá»‘...",
+      "date": "23/01/2019"
+    },
+    {
+      "title": "17 logo bia vÃ  máº¹o thiáº¿t káº¿ áº¥n tÆ°á»£ng",
+      "category": "CNTK",
+      "image": "1cn.PNG",
+      "content": "Sá»± phÃ¡t triá»ƒn, cáº¡nh tranh cá»§a ngÃ nh Ä‘á»“ uá»‘ng, trong Ä‘Ã³ cÃ³ bia Ä‘Ã²i há»�i cÃ¡c doanh nghiá»‡p cáº§n Ä‘áº§u tÆ° vÃ o thÆ°Æ¡ng hiá»‡u, thiáº¿t káº¿ logo cÅ©ng nhÆ° bao bÃ¬, nhÃ£n hiá»‡u. Náº¿u báº¡n Ä‘ang tÃ¬m kiáº¿m nhá»¯ng Ã½ tÆ°á»Ÿng thiáº¿t k...",
+      "date": "20/08/2020"
+    },
+    {
+      "title": "17 máº«u thiáº¿t káº¿ logo cÃ´ng nghá»‡ áº¥n tÆ°á»£ng nÄƒm 2020",
+      "category": "CNTK",
+      "image": "2cn.PNG",
+      "content": "Vá»›i sá»± phÃ¡t triá»ƒn cá»§a cÃ´ng nghá»‡ - Ä‘iá»‡n tá»­ â€“ viá»…n thÃ´ng, ngÃ y cÃ ng cÃ³ nhiá»�u doanh nghiá»‡p Ä‘Æ°á»£c má»Ÿ ra táº¡o nÃªn sá»± cáº¡nh tranh lá»›n giá»¯a cÃ¡c thÆ°Æ¡ng hiá»‡u. Ä�á»ƒ táº¡o Ä‘Æ°á»£c áº¥n tÆ°á»£ng vá»›i khÃ¡ch hÃ ng, kháº³ng Ä‘á»‹nh tÃªn ...",
+      "date": "19/08/2020"
+    },
+    {
+      "title": "17 logo pastel vÃ  máº¹o thiáº¿t káº¿ áº¥n tÆ°á»£ng",
+      "category": "CNTK",
+      "image": "3cn.PNG",
+      "content": "Xu hÆ°á»›ng sá»­ dá»¥ng cÃ¡c logo cÃ³ mÃ u nháº¹ nhÃ ng, mÃ u pastel Ä‘ang phÃ¡t triá»ƒn! MÃ u pastel cÃ³ hiá»‡u á»©ng quyáº¿n rÅ© vÃ  dá»‹u máº¯t. Logo pastel táº¡o thÃªm tÃ´ng mÃ u nháº¹ nhÃ ng, hay thay Ä‘á»•i cho thÆ°Æ¡ng hiá»‡u cá»§a báº¡n. Do Ä‘...",
+      "date": "12/08/2020"
+    },
+    {
+      "title": "15 logo dá»‹ch vá»¥ giao Ä‘á»“ Äƒn vÃ  máº¹o thiáº¿t káº¿ áº¥n tÆ°á»£ng",
+      "category": "CNTK",
+      "image": "4cn.PNG",
+      "content": "Náº¿u cÃ³ má»™t ngÃ nh dá»‹ch vá»¥ Ä‘ang phÃ¡t triá»ƒn máº¡nh trong nhá»¯ng nÄƒm gáº§n Ä‘Ã¢y thay Ä‘á»•i thÃ³i quen cá»§a ngÆ°á»�i tiÃªu dÃ¹ng thÃ¬ Ä‘Ã³ chÃ­nh lÃ  dá»‹ch vá»¥ giao Ä‘á»“ Äƒn. VÃ  náº¿u báº¡n Ä‘ang nghÄ© Ä‘áº¿n viá»‡c báº¯t Ä‘áº§u kinh doanh dá»‹ch ...",
+      "date": "06/08/2020"
+    },
+    {
+      "title": "23 máº«u thiáº¿t káº¿ logo ngÃ nh thá»±c pháº©m áº¥n tÆ°á»£ng",
+      "category": "CNTK",
+      "image": "5cn.PNG",
+      "content": "Logo chÃ­nh lÃ  vÅ© khÃ­ bÃ­ máº­t Ä‘á»ƒ cÃ¡c cÃ´ng ty trong ngÃ nh thá»±c pháº©m vÆ°Æ¡n lÃªn ná»•i báº­t, kháº³ng Ä‘á»‹nh giÃ¡ trá»‹ trong máº¯t khÃ¡ch hÃ ng giá»¯a hÃ ng ngÃ n cÃ¡c Ä‘á»‘i thá»§ cáº¡nh tranh khÃ¡c. ChÃ­nh vÃ¬ váº­y, Ä‘á»ƒ khÃ¡ch hÃ ng ghi ...",
+      "date": "04/08/2020"
+    },
+    {
+      "title": "23 logo hoa tuyá»‡t Ä‘áº¹p vÃ  máº¹o Ä‘á»ƒ thiáº¿t káº¿ áº¥n tÆ°á»£ng",
+      "category": "CNTK",
+      "image": "6cn.PNG",
+      "content": "Logo hoa lÃ  má»™t lá»±a chá»�n ngÃ y cÃ ng há»£p thá»�i trang cho cÃ¡c doanh nhÃ¢n trong ngÃ nh cÃ´ng nghiá»‡p cÆ°á»›i, chÄƒm sÃ³c sá»©c khá»�e hoáº·c cÃ¡c lÄ©nh vá»±c sÃ¡ng táº¡o khÃ¡c. Náº¿u báº¡n Ä‘ang tÃ¬m kiáº¿m nhá»¯ng Ã½ tÆ°á»Ÿng thiáº¿t káº¿ logo...",
+      "date": "01/08/2020"
+    },
+    {
+      "title": "13 Ä‘iá»�u cáº§n lÃ m vá»›i thiáº¿t káº¿ logo sau khi sá»Ÿ há»¯u",
+      "category": "CNTK",
+      "image": "7cn.PNG",
+      "content": "Khi Ä‘Ã£ sá»Ÿ há»¯u má»™t thiáº¿t káº¿ logo cho doanh nghiá»‡p, báº¡n cÃ³ bÄƒn khoÄƒn tá»± há»�i mÃ¬nh pháº£i lÃ m gÃ¬ vá»›i nÃ³? Hay nÃ³i cÃ¡ch khÃ¡c lÃ  lÃ m tháº¿ nÃ o Ä‘á»ƒ thá»ƒ hiá»‡n thÆ°Æ¡ng hiá»‡u cá»§a mÃ¬nh á»Ÿ cÃ ng nhiá»�u nÆ¡i cÃ ng tá»‘t? Trong b...",
+      "date": "13/07/2020"
+    },
+    {
+      "title": "17 máº«u thiáº¿t káº¿ logo thá»�i trang áº¥n tÆ°á»£ng nÄƒm 2020",
+      "category": "CNTK",
+      "image": "8cn.PNG",
+      "content": "CÃ¹ng vá»›i sá»± phÃ¡t triá»ƒn cá»§a xÃ£ há»™i hiá»‡n nay, â€œmáº·c Ä‘áº¹pâ€� trá»Ÿ thÃ nh nhu cáº§u khÃ´ng thá»ƒ thiáº¿u cá»§a má»�i ngÆ°á»�i. Sá»± bÃ¹ng ná»• cá»§a cÃ¡c thÆ°Æ¡ng hiá»‡u thá»�i trang, shop quáº§n Ã¡o khiáº¿n cho khÃ¡ch hÃ ng cÃ ng trá»Ÿ nÃªn khÃ³ lá»±...",
+      "date": "01/07/2020"
+    },
+    {
+      "title": "5 bÆ°á»›c Ä‘á»ƒ chá»�n biá»ƒu tÆ°á»£ng logo cho thÆ°Æ¡ng hiá»‡u cá»§a báº¡n",
+      "category": "CNTK",
+      "image": "9cn.PNG",
+      "content": "Biá»ƒu tÆ°á»£ng logo lÃ  trung tÃ¢m cá»§a thÆ°Æ¡ng hiá»‡u, thá»ƒ hiá»‡n báº¡n lÃ  ai, báº¡n Ä‘ang lÃ m gÃ¬, mang theo thÃ´ng Ä‘iá»‡p mÃ  báº¡n muá»‘n gá»­i gáº¯m tá»›i khÃ¡ch hÃ ng khi há»� nghÄ© vá»� cÃ´ng ty cá»§a báº¡n. NhÆ°ng nÃªn lá»±a chá»�n vÃ  sá»­ dá»¥n...",
+      "date": "18/06/2020"
+    },
+    {
+      "title": "5 lá»�i khuyÃªn khi chá»�n vÃ  sá»­ dá»¥ng font chá»¯ thiáº¿t káº¿ logo",
+      "category": "CNTK",
+      "image": "10cn.PNG",
+      "content": "Font chá»¯ thiáº¿t káº¿ logo khÃ´ng chá»‰ lÃ  tÃªn cá»§a má»™t cÃ´ng ty, mÃ  nÃ³ cÃ²n truyá»�n Ä‘áº¡t má»™t cáº£m giÃ¡c vá»� phong cÃ¡ch vÃ  tÃ­nh cÃ¡ch cá»§a thÆ°Æ¡ng hiá»‡u; cÃ³ tÃ¡c Ä‘á»™ng trá»±c tiáº¿p Ä‘áº¿n suy nghÄ© vÃ  cáº£m xÃºc cá»§a ngÆ°á»�i tiÃªu dÃ¹n...",
+      "date": "11/06/2020"
+    },
+    {
+      "title": "3 lÆ°u Ã½ khi thiáº¿t káº¿ logo thá»ƒ thao mÃ  báº¡n khÃ´ng nÃªn bá»� qua",
+      "category": "cntk",
+      "content": "Logo lÃ  cÃ´ng cá»¥ lÃ½ tÆ°á»Ÿng Ä‘á»ƒ quáº£ng bÃ¡ hÃ¬nh áº£nh doanh nghiá»‡p, Ä‘á»‘i vá»›i lÄ©nh vá»±c thá»ƒ thao nÃ³i riÃªng cÃ³ thá»ƒ Ä‘Æ°á»£c sá»­ dá»¥ng lÃ m hÃ¬nh áº£nh Ä‘áº¡i diá»‡n cho má»™t sá»± kiá»‡n thá»ƒ thao hay nháº­n diá»‡n thÆ°Æ¡ng hiá»‡u cho cÃ¡c cÃ¢...",
+      "image": "11cn.PNG",
+      "date": "04/06/2020"
+    },
+    {
+      "title": "7 vÃ­ dá»¥ vá»� thiáº¿t káº¿ logo khÃ´ng gian Ã¢m tá»« cÃ¡c thÆ°Æ¡ng hiá»‡u ná»•i tiáº¿ng",
+      "category": "cntk",
+      "content": "Trong thiáº¿t káº¿ logo, viá»‡c á»©ng dá»¥ng khÃ´ng gian Ã¢m mang láº¡i hiá»‡u quáº£ Ä‘áº·c biá»‡t Ä‘á»ƒ táº¡o ra hai hay nhiá»�u hÃ¬nh áº£nh cÃ¹ng má»�t lÃºc, mang Ä‘áº¿n cÃ¡i nhÃ¬n Ä‘á»™c Ä‘Ã¡o cho logo cá»§a thÆ°Æ¡ng hiá»‡u. Trong bÃ i viáº¿t nÃ y, hÃ£y ...",
+      "image": "12cn.PNG",
+      "date": "29/05/2020"
+    },
+    {
+      "title": "3 lÆ°u Ã½ khi thiáº¿t káº¿ logo phá»¥ kiá»‡n Ä‘iá»‡n thoáº¡i mÃ  báº¡n khÃ´ng nÃªn bá»� qua",
+      "category": "cntk",
+      "content": "Trong thá»�i Ä‘áº¡i mÃ  cÃ´ng nghÃª vÃ  smartphone bÃ¹ng ná»• nhÆ° hiá»‡n nÃ y thÃ¬ viá»‡c lá»±a chá»�n kinh doanh phá»¥ kiá»‡n Ä‘iá»‡n thoáº¡i lÃ  má»™t Ã½ tÆ°á»Ÿng vÃ´ cÃ¹ng háº¥p dáº«n. NhÆ°ng giá»¯a hÃ ng loáº¡t nhá»¯ng Ä‘Æ¡n vá»‹ bÃ¡n phá»¥ kiá»‡n Ä‘iá»‡n tho...",
+      "image": "13cn.PNG",
+      "date": "25/05/2020"
+    },
+    {
+      "title": "9 thiáº¿t káº¿ logo xáº¥u cáº§n trÃ¡nh tá»« cÃ¡c thÆ°Æ¡ng hiá»‡u ná»•i tiáº¿ng trÃªn tháº¿ giá»›i",
+      "category": "cntk",
+      "content": "BÃªn cáº¡nh nhá»¯ng thiáº¿t káº¿ logo Ä‘áº¹p, áº¥n tÆ°á»£ng, táº¡o nÃªn thÃ nh cÃ´ng lá»›n cho cÃ¡c thÆ°Æ¡ng hiá»‡u ná»•i tiáº¿ng trÃªn tháº¿ giá»›i, thÃ¬ váº«n xuáº¥t hiá»‡n khÃ´ng Ã­t nhá»¯ng thiáº¿t káº¿ logo xáº¥u, gÃ¢y áº£nh hÆ°á»Ÿng khÃ´ng nhá»� tá»›i sá»± phÃ¡t...",
+      "image": "14cn.PNG",
+      "date": "15/05/2020"
+    },
+    {
+      "title": "3 lÆ°u Ã½ khi thiáº¿t káº¿ logo ngÃ nh nÃ´ng nghiá»‡p mÃ  báº¡n khÃ´ng nÃªn bá»� qua",
+      "category": "cntk",
+      "content": "NÃ´ng nghiá»‡p lÃ  má»™t lÄ©nh vá»±c Ä‘áº·c thÃ¹ vá»›i sáº£n pháº©m Ä‘a dáº¡ng, cÃ³ tÃ¡c Ä‘á»™ng trá»±c tiáº¿p tá»›i sá»©c khá»�e ngÆ°á»�i tiÃªu dÃ¹ng. Viá»‡c thiáº¿t káº¿ logo ngÃ nh nÃ´ng nghiá»‡p Ä‘á»ƒ táº¡o Ä‘Æ°á»£c áº¥n tÆ°á»£ng, thá»ƒ hiá»‡n Ä‘áº·c trÆ°ng ngÃ nh nghá»�, ",
+      "image": "15cn.PNG",
+      "date": "12/05/2020"
+    },
+    {
+      "title": "3 máº¹o thiáº¿t káº¿ logo linh váº­t mÃ  báº¡n khÃ´ng nÃªn bá»� qua",
+      "category": "cntk",
+      "content": "Logo linh váº­t lÃ  má»™t trong nhá»¯ng loáº¡i logo Ä‘Ã¡ng nhá»› vÃ  dá»… nháº­n biáº¿t nháº¥t hiá»‡n cÃ³. Ä�á»‘i vá»›i nhiá»�u cÃ´ng ty, linh váº­t lÃ  Ä‘iá»�u cáº§n thiáº¿t cho báº£n sáº¯c thÆ°Æ¡ng hiá»‡u cá»§a há»�. TrÃªn thá»±c táº¿, má»™t sá»‘ linh váº­t Ä‘Ã£ tr...",
+      "image": "16cn.PNG",
+      "date": "05/05/2020"
+    },
+    {
+      "title": "5 lÆ°u Ã½ khi thiáº¿t káº¿ logo ná»™i tháº¥t dÃ nh cho ngÆ°á»�i má»›i báº¯t Ä‘áº§u",
+      "category": "cntk",
+      "content": "Ná»™i tháº¥t lÃ  ngÃ nh nghá»� tá»•ng há»£p cá»§a nghá»‡ thuáº­t vÃ  khoa há»�c ká»¹ thuáº­t, dá»±a trÃªn sá»± phá»‘i há»£p hÃ i hÃ²a giá»¯a mÃ u sáº¯c, Ã¡nh sÃ¡ng, tháº©m ká»¹ kiáº¿n trÃºc,â€¦ Ä‘á»ƒ tá»• chá»©c khÃ´ng gian sá»‘ng, khÃ´ng gian lÃ m viá»‡c. ChÃ­nh vÃ¬...",
+      "image": "17cn.PNG",
+      "date": "26/03/2020"
+    },
+    {
+      "title": "3 lÆ°u Ã½ khi thiáº¿t káº¿ logo tiá»‡m nails mÃ  báº¡n khÃ´ng nÃªn bá»� qua",
+      "category": "cntk",
+      "content": "TrÆ°á»›c nhu cáº§u lÃ m Ä‘áº¹p ngÃ y cÃ ng tÄƒng, viá»‡c hÃ ng loáº¡t cÃ¡c tiá»‡m nail Ä‘Æ°á»£c má»Ÿ ra táº¡o nÃªn sá»± cáº¡nh tranh lá»›n. LÃ m sao Ä‘á»ƒ gÃ¢y Ä‘Æ°á»£c áº¥n tÆ°á»£ng, thu hÃºt khÃ¡ch hÃ ng sá»­ dá»¥ng dá»‹ch vá»¥ cá»§a báº¡n? CÃ¢u tráº£ lá»�i náº±m á»Ÿ gi...",
+      "image": "18cn.PNG",
+      "date": "18/03/2020"
+    },
+    {
+      "title": "19 máº«u thiáº¿t káº¿ logo máº¹ vÃ  bÃ© áº¥n tÆ°á»£ng nÄƒm 2020",
+      "category": "cntk",
+      "content": "Máº¹ vÃ  bÃ© lÃ  má»™t trong nhá»¯ng chá»§ Ä‘á»� Ä‘Æ°á»£c sá»­ dá»¥ng phá»• biáº¿n trong thiáº¿t káº¿ logo ngÃ y nay bá»Ÿi nhu cáº§u sá»­ dá»¥ng cÃ¡c sáº£n pháº©m chÄƒm sÃ³c sá»©c khá»�e cho máº¹ vÃ  bÃ© Ä‘ang ngÃ y cÃ ng tÄƒng, sá»± cáº¡nh tranh giá»¯a cÃ¡c doanh...",
+      "image": "19cn.PNG",
+      "date": "15/03/2020"
+    },
+    {
+      "title": "13 máº«u thiáº¿t káº¿ logo ngÃ nh hÃ ng tiÃªu dÃ¹ng áº¥n tÆ°á»£ng nÄƒm 2020",
+      "category": "cntk",
+      "content": "TrÆ°á»›c sá»± phÃ¡t triá»ƒn cá»§a kinh táº¿ thá»‹ trÆ°á»�ng, ngÃ nh hÃ ng tiÃªu dÃ¹ng cÃ³ xu hÆ°á»›ng má»Ÿ rá»™ng vÃ  Ä‘a dáº¡ng hÃ³a. Ä�á»ƒ cÃ³ thá»ƒ tá»“n táº¡i vÃ  cáº¡nh tranh, cÃ¡c thÆ°Æ¡ng hiá»‡u cáº§n xÃ¢y dá»±ng bá»™ nháº­n diá»‡n bÃ i báº£n, Ä‘á»“ng bá»™ vÃ  táº¡o...",
+      "image": "20cn.PNG",
+      "date": "08/03/2020"
+    },
+    {
+      "title": "3 lÆ°u Ã½ khi thiáº¿t káº¿ logo ngÃ nh du lá»‹ch â€“ dá»‹ch vá»¥ mÃ  báº¡n khÃ´ng nÃªn bá»� qua",
+      "category": "cntk",
+      "content": "TrÆ°á»›c sá»± phÃ¡t triá»ƒn nhÆ° vÅ© bÃ£o cá»§a ngÃ nh du lá»‹ch â€“ dá»‹ch vá»¥, nhu cáº§u sá»Ÿ há»¯u má»™t thiáº¿t káº¿ logo vÃ  bá»™ nháº­n diá»‡n thÆ°Æ¡ng hiá»‡u chuyÃªn nghiá»‡p, áº¥n tÆ°á»£ng ngÃ y cÃ ng Ä‘Æ°á»£c cÃ¡c cÃ´ng ty, doanh nghiá»‡p quan tÃ¢m, Ä‘áº§u...",
+      "image": "21cn.PNG",
+      "date": "03/03/2020"
+    },
+    {
+      "title": "13 máº«u thiáº¿t káº¿ logo ngÃ nh giÃ¡o dá»¥c áº¥n tÆ°á»£ng",
+      "category": "cntk",
+      "content": "GiÃ¡o dá»¥c lÃ  má»™t ngÃ nh Ä‘áº·c thÃ¹ mÃ  khi thiáº¿t káº¿ logo, cáº§n pháº£i chÃº trá»�ng Ä‘áº¿n viá»‡c thá»ƒ hiá»‡n tinh tháº§n cá»§a thÆ°Æ¡ng hiá»‡u, cÅ©ng nhÆ° toÃ¡t lÃªn báº£n cháº¥t ngÃ nh nghá»�. NgoÃ i nhá»¯ng biá»ƒu tÆ°á»£ng giÃ¡o dá»¥c thÆ°á»�ng tháº¥y ...",
+      "image": "22cn.PNG",
+      "date": "25/02/2020"
+    },
+    {
+      "title": "45 máº«u thiáº¿t káº¿ logo má»¹ pháº©m, spa, nail, lÃ m Ä‘áº¹p chuyÃªn nghiá»‡p, áº¥n tÆ°á»£ng nÄƒm 2020",
+      "category": "cntk",
+      "content": "NgÃ y nay, nhu cáº§u lÃ m Ä‘áº¹p Ä‘Ã£ trá»Ÿ thÃ nh má»™t pháº§n thiáº¿t yáº¿u, khÃ´ng thá»ƒ thiáº¿u trong cuá»™c sá»‘ng cá»§a nhiá»�u ngÆ°á»�i. CÃ¡c thÆ°Æ¡ng hiá»‡u má»¹ pháº©m, spa, nail,  lÃ m Ä‘áº¹p ngÃ y cÃ ng nhiá»�u. Ä�á»ƒ táº¡o Ä‘Æ°á»£c sá»± áº¥n tÆ°á»£ng, gÃ¢y ...",
+      "image": "23cn.PNG",
+      "date": "22/02/2020"
+    },
+    {
+      "title": "13 máº«u logo quÃ¡n cÃ  phÃª áº¥n tÆ°á»£ng nÄƒm 2020",
+      "category": "cntk",
+      "content": "Báº¡n Ä‘ang cÃ³ dá»± Ä‘á»‹nh má»Ÿ má»™t quÃ¡n cÃ  phÃª, trÃ  sá»¯a nhÆ°ng chÆ°a biáº¿t nÃªn thiáº¿t káº¿ logo ra sao cho há»£p lÃ½, hay mong muá»‘n thay Ä‘á»•i bá»™ nháº­n diá»‡n Ä‘á»ƒ tÄƒng hiá»‡u quáº£ kinh doanh? HÃ£y tham kháº£o ngay bÃ i viáº¿t dÆ°á»›i ...",
+      "image": "24cn.PNG",
+      "date": "18/02/2020"
+    },
+    {
+      "title": "15 máº«u logo cÃ´ng ty xÃ¢y dá»±ng â€“ báº¥t Ä‘á»™ng sáº£n chuyÃªn nghiá»‡p, áº¥n tÆ°á»£ng",
+      "category": "cntk",
+      "content": "XÃ¢y dá»±ng â€“ Báº¥t Ä‘á»™ng sáº£n vá»‘n lÃ  má»™t ngÃ nh khÃ´ khan, cá»©ng nháº¯c; cÃ³ láº½ vÃ¬ váº­y mÃ  gÃ¢y ra nhiá»�u khÃ³ khÄƒn khi thiáº¿t káº¿ logo, lÃ m sao Ä‘á»ƒ Ä‘áº£m báº£o Ä‘Æ°á»£c yáº¿u tá»‘ Ä‘á»‹nh vá»‹ ngÃ nh nghá»�, sá»± bá»�n vá»¯ng, cháº¯c cháº¯n vÃ  táº¡o...",
+      "image": "25cn.PNG",
+      "date": "13/02/2020"
+    },
+    {
+      "title": "11 báº£ng mÃ u mÃ¹a thu dÃ nh cho thiáº¿t káº¿ truyá»�n thÃ´ng thÆ°Æ¡ng hiá»‡u",
+      "category": "cntk",
+      "content": "MÃ¹a thu, mÃ¹a cá»§a rÆ°á»£u nghiá»�n, bÃ­ ngÃ´ vÃ  nhá»¯ng chuyáº¿n Ä‘i trong ngÃ y trÃªn nhá»¯ng con Ä‘Æ°á»�ng vá»›i nhá»¯ng quáº£ cam mÃ u vÃ ng rá»±c rá»¡. Ä�Ã¢y cÅ©ng lÃ  thá»�i Ä‘iá»ƒm hoÃ n háº£o Ä‘á»ƒ tÃ¬m cáº£m há»©ng trong cÃ¡c bÃ i Ä‘Äƒng truyá»�n thÃ´...",
+      "image": "26cn.PNG",
+      "date": "31/01/2020"
+    },
+    {
+      "title": "Ã� nghÄ©a cá»§a mÃ u sáº¯c vÃ  cáº£m xÃºc trong thiáº¿t káº¿ logo",
+      "category": "cntk",
+      "content": "MÃ u sáº¯c vÃ  cáº£m xÃºc Ä‘Æ°á»£c káº¿t ná»‘i ná»™i táº¡i. Má»—i mÃ u sáº¯c tÆ°á»£ng trÆ°ng cho má»™t Ã½ nghÄ©a riÃªng, gÃ³p pháº§n thá»ƒ hiá»‡n cÃ¡ tÃ­nh, thÃ´ng Ä‘iá»‡p mÃ  thÆ°Æ¡ng hiá»‡u muá»‘n gá»­i gáº¯m qua thiáº¿t káº¿ logo. Trong bÃ i viáº¿t nÃ y, hÃ£y cÃ¹...",
+      "image": "27cn.PNG",
+      "date": "30/01/2020"
+    },
+    {
+      "title": "5 máº¹o thiáº¿t káº¿ logo wordmark dÃ nh cho ngÆ°á»�i má»›i báº¯t Ä‘áº§u",
+      "category": "cntk",
+      "content": "Thiáº¿t káº¿ logo wordmark lÃ  viá»‡c giá»¯ cho táº¥t cáº£ thiáº¿t káº¿ trá»Ÿ nÃªn Ä‘Æ¡n giáº£n nháº¥t cÃ³ thá»ƒ. Kiá»ƒu dÃ¡ng chá»‰ lÃ  má»™t lá»±a chá»�n phá»• biáº¿n (vÃ  vÆ°á»£t thá»�i gian) trong cÃ¡c ngÃ nh cÃ´ng nghiá»‡p, Ä‘áº·c biá»‡t lÃ  cÃ´ng nghá»‡, tru...",
+      "image": "28cn.PNG",
+      "date": "28/01/2020"
+    },
+    {
+      "title": "25 Ã½ tÆ°á»Ÿng thiáº¿t káº¿ logo thÃºc Ä‘áº©y sá»± sÃ¡ng táº¡o cá»§a báº¡n",
+      "category": "cntk",
+      "content": "Ä�á»ƒ thiáº¿t káº¿ má»™t logo Ä‘áº¹p, chuyÃªn nghiá»‡p, Ä‘Ã²i há»�i sá»± sÃ¡ng táº¡o vÃ  thá»�i gian gian tá»« khÃ¢u lÃªn Ã½ tÆ°á»Ÿng Ä‘áº¿n hoÃ n thiá»‡n sáº£n pháº©m, trong Ä‘Ã³, viá»‡c hÃ¬nh thÃ nh vÃ  phÃ¡t triá»ƒn Ã½ tÆ°á»Ÿng lÃ  khÃ¢u Ä‘áº·c biá»‡t quan trá»�ng...",
+      "image": "29cn.PNG",
+      "date": "27/01/2020"
+    },
+    {
+      "title": "Vai trÃ² cá»§a logo Ä‘á»‘i vá»›i doanh nghiá»‡p cá»§a báº¡n",
+      "category": "cntk",
+      "content": "Logo cÃ³ vai trÃ² quan trá»�ng nhÆ° tháº¿ nÃ o Ä‘á»‘i vá»›i doanh nghiá»‡p cá»§a báº¡n? Náº¿u báº¡n chÆ°a biáº¿t rÃµ thÃ¬ Ä‘á»«ng bá»� qua bÃ i viáº¿t dÆ°á»›i Ä‘Ã¢y cá»§a Bee Art nhÃ©..",
+      "image": "30cn.PNG",
+      "date": "25/01/2020"
+    },
+    {
+      "title": "KÃ­ch thÆ°á»›c logo tá»‘t nháº¥t cho website, máº¡ng xÃ£ há»™i vÃ  in áº¥n",
+      "category": "cntk",
+      "content": "Logo cÃ³ vai trÃ² vÃ  tÃ¡c Ä‘á»™ng to lá»›n Ä‘áº¿n nháº­n thá»©c cá»§a khÃ¡ch hÃ ng vá»� doanh nghiá»‡p cá»§a báº¡n, vÃ¬ váº­y, Ä‘iá»�u quan trá»�ng lÃ  pháº£i giá»¯ cho nÃ³ trÃ´ng tháº­t sáº¯c nÃ©t á»Ÿ báº¥t cá»© nÆ¡i nÃ o nÃ³ Ä‘Æ°á»£c sá»­ dá»¥ng. Tuy nhiÃªn, báº¡n...",
+      "image": "31cn.PNG",
+      "date": "24/01/2020"
+    },
+    {
+      "title": "5 máº¹o thiáº¿t káº¿ logo monogram dÃ nh cho ngÆ°á»�i má»›i báº¯t Ä‘áº§u",
+      "category": "cntk",
+      "content": "LÃ m tháº¿ nÃ o Ä‘á»ƒ báº¡n ká»ƒ má»™t cÃ¢u chuyá»‡n báº±ng Ã­t tá»« hoáº·c cÃ ng Ã­t chá»¯ cÃ¡i cÃ ng tá»‘t? HÃ£y táº¡o ra má»™t logo monogram - nhá»¯ng thiáº¿t káº¿ mang theo giÃ¡ trá»‹ tÃ¬nh cáº£m, thÃ´ng Ä‘iá»‡p vá»� thÆ°Æ¡ng hiá»‡u báº±ng cÃ¡ch sá»­ dá»¥ng cÃ¡...",
+      "image": "32cn.PNG",
+      "date": "23/01/2020"
+    },
+    {
+      "title": "15 máº¹o thiáº¿t káº¿ logo tá»« cÃ¡c chuyÃªn gia thÆ°Æ¡ng hiá»‡u",
+      "category": "cntk",
+      "content": "Thiáº¿t káº¿ logo lÃ  cáº£ má»™t quÃ¡ trÃ¬nh Ä‘Ã²i há»�i nhiá»�u yáº¿u tá»‘ quyáº¿t Ä‘á»‹nh, tá»« viá»‡c nghiÃªn cá»©u cáº¡nh tranh cho Ä‘áº¿n lá»±a chá»�n mÃ u sáº¯c, phÃ´ng chá»¯, hÃ¬nh dáº¡ng. Ä�á»ƒ giÃºp báº¡n trong suá»‘t quÃ¡ trÃ¬nh vÃ  táº¡o ra má»™t báº£n sáº¯c...",
+      "image": "33cn.PNG",
+      "date": "22/01/2020"
+    },
+    {
+      "title": "7 logo cáº§n sa bÃ¡o hiá»‡u má»™t ngÃ nh cÃ´ng nghiá»‡p Ä‘ang thay Ä‘á»•i",
+      "category": "cntk",
+      "content": "Vá»›i viá»‡c há»£p phÃ¡p hÃ³a cáº§n sa giáº£i trÃ­ trÃªn kháº¯p Canada vÃ  cÃ¡c bá»™ pháº­n cá»§a Hoa Ká»³, khÃ´ng cÃ³ gÃ¬ ngáº¡c nhiÃªn khi cáº§n sa Ä‘Ã£ trá»Ÿ thÃ nh má»™t trong nhá»¯ng ngÃ nh cÃ´ng nghiá»‡p Ä‘Æ°á»£c nháº¯c Ä‘áº¿n nhiá»�u nháº¥t trong nÄƒm 2...",
+      "image": "34cn.PNG",
+      "date": "21/01/2020"
+    },
+    {
+      "title": "5 bÆ°á»›c thiáº¿t káº¿ logo (ngay cáº£ khi báº¡n khÃ´ng pháº£i lÃ  nhÃ  thiáº¿t káº¿) - Pháº§n 2",
+      "category": "cntk",
+      "content": "Logo lÃ  má»™t pháº§n quan trá»�ng cá»§a báº¥t ká»³ doanh nghiá»‡p nÃ o, nhÆ°ng cÃ³ ráº¥t nhiá»�u Ä‘iá»�u cáº§n xem xÃ©t khi thiáº¿t káº¿ logo, bao gá»“m: mÃ u sáº¯c, bá»‘ cá»¥c, phÃ´ng chá»¯ vÃ  biá»ƒu tÆ°á»£ng. Nghe thÃ¬ cÃ³ váº» ráº¥t nhiá»�u, nhÆ°ng chá»‰ ...",
+      "image": "35cn.PNG",
+      "date": "20/01/2020"
+    },
+    {
+      "title": "5 bÆ°á»›c thiáº¿t káº¿ logo (ngay cáº£ khi báº¡n khÃ´ng pháº£i lÃ  nhÃ  thiáº¿t káº¿) - Pháº§n 1",
+      "category": "cntk",
+      "content": "Logo lÃ  má»™t pháº§n quan trá»�ng cá»§a báº¥t ká»³ doanh nghiá»‡p nÃ o, nhÆ°ng cÃ³ ráº¥t nhiá»�u Ä‘iá»�u cáº§n xem xÃ©t khi thiáº¿t káº¿ logo, bao gá»“m: mÃ u sáº¯c, bá»‘ cá»¥c, phÃ´ng chá»¯ vÃ  biá»ƒu tÆ°á»£ng. Nghe thÃ¬ cÃ³ váº» ráº¥t nhiá»�u, nhÆ°ng chá»‰ ...",
+      "image": "36cn.PNG",
+      "date": "20/01/2020"
+    },
+    {
+      "title": "5 kiá»ƒu thiáº¿t káº¿ logo cÆ¡ báº£n vÃ  cÃ¡ch lá»±a chá»�n phÃ¹ há»£p vá»›i doanh nghiá»‡p cá»§a báº¡n",
+      "category": "cntk",
+      "content": "Vai trÃ² cá»§a logo Ä‘á»‘i vá»›i doanh nghiá»‡p lÃ  khÃ´ng thá»ƒ phá»§ nháº­n, bá»Ÿi Ä‘Ã¢y lÃ  hÃ¬nh áº£nh tiáº¿p xÃºc Ä‘áº§u tiÃªn cá»§a khÃ¡ch hÃ ng vá»›i thÆ°Æ¡ng hiá»‡u. CÃ³ tá»›i 5 kiá»ƒu thiáº¿t káº¿ logo cÆ¡ báº£n vÃ  báº¡n chÆ°a biáº¿t lÃ m sao Ä‘á»ƒ lá»±a c...",
+      "image": "37cn.PNG",
+      "date": "19/01/2020"
+    },
+    {
+      "title": "CÃ¡ch in logo trÃªn 5 cháº¥t liá»‡u phá»• biáº¿n nháº¥t",
+      "category": "cntk",
+      "content": "Viá»‡c in logo cá»§a thÆ°Æ¡ng hiá»‡u lÃªn má»™t váº­t thá»ƒ lÃ  cÃ¡ch cáº­n khÃ¡ch hÃ ng á»Ÿ má»™t cáº¥p Ä‘á»™ khÃ¡c so vá»›i khi há»� nhÃ¬n tháº¥y nÃ³ trá»±c tuyáº¿n. VÃ  khÃ´ng cÃ³ quáº£ng cÃ¡o thá»¥ Ä‘á»™ng nÃ o tá»‘t hÆ¡n cho doanh nghiá»‡p cá»§a báº¡n hÆ¡n ai...",
+      "image": "38cn.PNG",
+      "date": "17/01/2020"
+    },
+    {
+      "title": "5 Ä‘áº·c Ä‘iá»ƒm quan trá»�ng khi thiáº¿t káº¿ biá»ƒu tÆ°á»£ng logo",
+      "category": "cntk",
+      "content": "Biá»ƒu tÆ°á»£ng logo thÆ°á»�ng lÃ  thá»© Ä‘áº§u tiÃªn má»�i ngÆ°á»�i nhÃ¬n tháº¥y khi mua sáº£n pháº©m hoáº·c dá»‹ch vá»¥ cá»§a doanh nghiá»‡p; Ä‘Ã³ng vai trÃ² lÃ  báº±ng chá»©ng cho tháº¥y nhá»¯ng gÃ¬ há»� mua lÃ  chÃ­nh hÃ£ng vÃ  há»£p phÃ¡p - nÃ³i cÃ¡ch khÃ¡...",
+      "image": "39cn.PNG",
+      "date": "16/01/2020"
+    },
+    {
+      "title": "5 máº¹o thiáº¿t káº¿ logo gradient dÃ nh cho ngÆ°á»�i má»›i báº¯t Ä‘áº§u",
+      "category": "cntk",
+      "content": "Sá»± phÃ¡t triá»ƒn cá»§a xu hÆ°á»›ng thiáº¿t káº¿ logo gradient lÃ  má»™t sá»± láº·p láº¡i cÃ³ tÃ­nh cháº¥t chu ká»³, bá»Ÿi nÃ³ Ä‘Ã£ tá»«ng trá»Ÿ thÃ nh xu hÆ°á»›ng tiÃªu biá»ƒu trong nhá»¯ng nÄƒm 90. LÃ  má»™t designer, náº¿u báº¡n khÃ´ng náº¯m báº¯t ká»‹p thá»�...",
+      "image": "40cn.PNG",
+      "date": "15/01/2020"
+    },
+    {
+      "title": "9 logo hÃ¬nh vuÃ´ng ná»•i tiáº¿ng tháº¿ giá»›i vÃ  nhá»¯ng máº¹o thiáº¿t káº¿ dÃ nh cho báº¡n",
+      "category": "cntk",
+      "content": "HÃ¬nh vuÃ´ng Ä‘Æ°á»£c liÃªn káº¿t máº¡nh máº½ vá»›i sá»± á»•n Ä‘á»‹nh vÃ  cáº¥u trÃºc. Logo hÃ¬nh vuÃ´ng thá»ƒ hiá»‡n Ä‘á»™ tin cáº­y vÃ  tháº©m quyá»�n. Trong bÃ i viáº¿t nÃ y, hÃ£y cÃ¹ng Bee Art tÃ¬m hiá»ƒu cÃ¡ch mÃ  cÃ¡c thÆ°Æ¡ng hiá»‡u ná»•i tiáº¿ng á»©ng dá»¥n...",
+      "image": "41cn.PNG",
+      "date": "14/01/2020"
+    },
+    {
+      "title": "5 Ä‘iá»�u nÃªn vÃ  khÃ´ng nÃªn khi thiáº¿t káº¿ slogan logo",
+      "category": "cntk",
+      "content": "Slogan â€“ kháº©u hiá»‡u Ä‘Æ°á»£c vÃ­ nhÆ° chiáº¿c chÃ¬a khÃ³a má»Ÿ ra cÃ¡nh cá»­a thÃ nh cÃ´ng cho doanh nghiá»‡p, lÃ  cáº§u ná»‘i giá»¯a doanh nghiá»‡p vá»›i ngÆ°á»�i tiÃªu dÃ¹ng. Ä�á»ƒ thiáº¿t káº¿ Ä‘Æ°á»£c má»™t slogan áº¥n tÆ°á»£ng, cháº¡m Ä‘áº¿n trÃ¡i tim kh...",
+      "image": "42cn.PNG",
+      "date": "13/01/2020"
+    },
+    {
+      "title": "13 logo tam giÃ¡c ná»•i tiáº¿ng tháº¿ giá»›i vÃ  nhá»¯ng máº¹o thiáº¿t káº¿ dÃ nh cho báº¡n",
+      "category": "cntk",
+      "content": "Thiáº¿t káº¿ logo tam giÃ¡c cÃ³ xu hÆ°á»›ng ná»•i báº­t trong má»™t Ä‘Ã¡m Ä‘Ã´ng. Trong khi logo hÃ¬nh trÃ²n biá»ƒu thá»‹ sá»± thá»‘ng nháº¥t, logo hÃ¬nh vuÃ´ng biá»ƒu thá»‹ cáº¥u trÃºc, thÃ¬ logo tam giÃ¡c liÃªn quan Ä‘áº¿n má»™t hÃ¬nh há»�c vui tÆ°Æ¡...",
+      "image": "43cn.PNG",
+      "date": "12/01/2020"
+    },
+    {
+      "title": "29 thiáº¿t káº¿ logo tá»‘i giáº£n Ä‘áº¹p nháº¥t theo tá»«ng ngÃ nh nghá»�",
+      "category": "cntk",
+      "content": "Nhá»¯ng thiáº¿t káº¿ logo vÃ  bá»™ nháº­n diá»‡n thÆ°Æ¡ng hiá»‡u Ä‘Æ¡n giáº£n vÃ  tinh gá»�n nhiá»�u khi láº¡i mang Ä‘áº¿n áº¥n tÆ°á»£ng tá»‘t hÆ¡n so vá»›i nhá»¯ng thá»© cáº§u ká»³. Lá»±a chá»�n phong cÃ¡ch thiáº¿t káº¿ logo tá»‘i giáº£n luÃ´n lÃ  phÆ°Æ¡ng Ã¡n Ä‘Ãºng...",
+      "image": "44cn.PNG",
+      "date": "11/01/2020"
+    },
+    {
+      "title": "5 phong cÃ¡ch thiáº¿t káº¿ logo con váº­t",
+      "category": "cntk",
+      "content": "Con váº­t lÃ  sá»± lá»±a chá»�n phá»• biáº¿n trong nhiá»�u logo cá»§a cÃ¡c thÆ°Æ¡ng hiá»‡u ná»•i tiáº¿ng trÃªn tháº¿ giá»›i nhÆ° Puma, Doulingo,â€¦ bá»Ÿi má»‘i liÃªn há»‡ sÃ¢u sáº¯c giá»¯a chÃºng vÃ  con ngÆ°á»�i. Má»™t logo con váº­t cÃ³ thá»ƒ gáº¯n káº¿t thÆ°Æ¡...",
+      "image": "45cn.PNG",
+      "date": "10/01/2020"
+    },
+    {
+      "title": "QuÃ¡ trÃ¬nh thiáº¿t káº¿ láº¡i logo tá»‘t nháº¥t vÃ  tá»‡ nháº¥t cá»§a 17 thÆ°Æ¡ng hiá»‡u ná»•i tiáº¿ng tháº¿ giá»›i",
+      "category": "cntk",
+      "content": "Gáº¯n vá»›i má»—i giai Ä‘oáº¡n thÄƒng tráº§m trong hoáº¡t Ä‘á»™ng kinh doanh cá»§a doanh nghiá»‡p, logo pháº£n Ã¡nh nhá»¯ng thÃ´ng Ä‘iá»‡p giÃ¡ trá»‹ vá»� sáº£n pháº©m, dá»‹ch vá»¥ cÅ©ng nhÆ° Ä‘á»‹nh hÆ°á»›ng cá»§a thÆ°Æ¡ng hiá»‡u trong tá»«ng giai Ä‘oáº¡n lá»‹ch...",
+      "image": "46cn.PNG",
+      "date": "09/01/2020"
+    },
+    {
+      "title": "5 font chá»¯ thiáº¿t káº¿ logo cÆ¡ báº£n vÃ  cÃ¡ch á»©ng dá»¥ng",
+      "category": "cntk",
+      "content": "Ä�á»ƒ thiáº¿t káº¿ má»™t logo hoÃ n háº£o, Ä‘Ã²i há»�i ráº¥t nhiá»�u thá»�i gian vÃ  cÃ´ng sá»©c, trong Ä‘Ã³, viá»‡c chá»�n lá»±a font chá»¯ ráº¥t dá»… khiáº¿n nhiá»�u nhÃ  thiáº¿t káº¿ Ä‘au Ä‘áº§u. LÃ m sao Ä‘á»ƒ chá»�n lá»±a Ä‘Æ°á»£c font chá»¯ phÃ¹ há»£p, lá»™t táº£ Ä‘Æ°á»£...",
+      "image": "47cn.PNG",
+      "date": "08/01/2020"
+    },
+    {
+      "title": "9 logo cá»• Ä‘iá»ƒn ná»•i tiáº¿ng tháº¿ giá»›i vÃ  nhá»¯ng máº¹o thiáº¿t káº¿ dÃ nh cho báº¡n",
+      "category": "cntk",
+      "content": "Vá»›i nhiá»�u thÆ°Æ¡ng hiá»‡u, viá»‡c lá»±a chá»�n thiáº¿t káº¿ logo mang phong cÃ¡ch cá»• Ä‘iá»ƒn lÃ  cÃ¡ch Ä‘áº·c biá»‡t Ä‘á»ƒ thá»ƒ hiá»‡n nÃ©t ná»•i trá»™i, riÃªng biá»‡t vÃ  Ä‘á»™c nháº¥t. Náº¿u báº¡n Ä‘ang cÃ³ Ã½ Ä‘á»‹nh lá»±a chá»�n phong cÃ¡ch nÃ y Ä‘á»ƒ táº¡o dá»±n...",
+      "image": "48cn.PNG",
+      "date": "07/01/2020"
+    },
+    {
+      "title": "15 máº«u thiáº¿t káº¿ logo rÆ°á»£u vang Ä‘áº¹p vÃ  nhá»¯ng máº¹o thiáº¿t káº¿ dÃ nh cho báº¡n",
+      "category": "cntk",
+      "content": "Thiáº¿t káº¿ logo rÆ°á»£u vang lÃ  má»™t bÃ i toÃ¡n khÃ´ng há»� Ä‘Æ¡n giáº£n Ä‘á»‘i vá»›i nhiá»�u nhÃ  thiáº¿t káº¿, bá»Ÿi nhá»¯ng yÃªu cáº§u vá»� sá»± áº¥n tÆ°á»£ng, háº¥p dáº«n, cÅ©ng nhÆ° nÃ©t Ä‘áº·c trÆ°ng, tinh táº¿ vÆ°á»£t thá»�i gian cá»§a loáº¡i Ä‘á»“ uá»‘ng xa xá»‰ ...",
+      "image": "49cn.PNG",
+      "date": "06/01/2020"
+    },
+    {
+      "title": "TÃ¬m hiá»ƒu vá»� logo biá»ƒu tÆ°á»£ng vÃ  3 loáº¡i logo cÆ¡ báº£n",
+      "category": "cntk",
+      "content": "Logo biá»ƒu tÆ°á»£ng (Emblem logo) ngÃ y cÃ ng trá»Ÿ nÃªn phá»• biáº¿n. ChÃºng Ä‘Æ°á»£c tÃ¬m tháº¥y á»Ÿ kháº¯p má»�i nÆ¡i trÃªn tháº¿ giá»›i, tá»« cÃ¡c trÆ°á»�ng Ä‘áº¡i há»�c, Ä‘á»™i thá»ƒ thao, thÆ°Æ¡ng hiá»‡u xe hÆ¡i lá»›n, cá»� quá»‘c gia vÃ  tháº­m chÃ­ lÃ  á»Ÿ n...",
+      "image": "50cn.PNG",
+      "date": "04/01/2020"
+    },
+    {
+      "title": "11 lá»—i thiáº¿t káº¿ logo thÆ°á»�ng gáº·p vÃ  cÃ¡ch kháº¯c phá»¥c",
+      "category": "cntk",
+      "content": "Trong má»‘i quan há»‡ giá»¯a thÆ°Æ¡ng hiá»‡u vÃ  khÃ¡ch hÃ ng, logo chÃ­nh lÃ  lá»�i chÃ o Ä‘áº§u hay Ã¡nh máº¯t Ä‘áº§u tiÃªn. Ä�Ã³ lÃ  biá»ƒu tÆ°á»£ng Ä‘á»ƒ khÃ¡ch hÃ ng nhá»› Ä‘áº¿n doanh nghiá»‡p vÃ  cÃ¡ch liÃªn káº¿t vá»� thÆ°Æ¡ng hiá»‡u. Trong quÃ¡ trÃ¬nh...",
+      "image": "51cn.PNG",
+      "date": "03/01/2020"
+    },
+    {
+      "title": "17 má»¥c Ä‘Ã­ch cá»§a thiáº¿t káº¿ logo",
+      "category": "cntk",
+      "content": "Thiáº¿t káº¿ logo lÃ  bÆ°á»›c quan trá»�ng trong quÃ¡ trÃ¬nh xÃ¢y dá»±ng thÆ°Æ¡ng hiá»‡u. NhÆ°ng báº¡n Ä‘Ã£ bao giá»� tá»± há»�i táº¡i sao láº¡i cáº§n thiáº¿t káº¿ logo chÆ°a? ChÃºng ta cÃ³ thá»ƒ sá»­ dá»¥ng logo vÃ o viá»‡c gÃ¬? HÃ£y cÃ¹ng BeeArt tÃ¬m hi...",
+      "image": "52cn.PNG",
+      "date": "22/07/2019"
+    },
+    {
+      "title": "5 Ä‘áº·c Ä‘iá»ƒm cá»§a logo Ä‘áº¹p",
+      "category": "cntk",
+      "content": "Thiáº¿t káº¿ logo lÃ  Ä‘iá»�u Ä‘áº§u tiÃªn khÃ¡ch hÃ ng quan tÃ¢m khi mua sáº£n pháº©m hoáº·c sá»­ dá»¥ng dá»‹ch vá»¥ báº¡n cung cáº¥p. Má»™t logo Ä‘áº¹p sáº½ giÃºp chá»©ng minh ráº±ng khÃ¡ch hÃ ng Ä‘ang nháº­n Ä‘Æ°á»£c cháº¥t lÆ°á»£ng tháº­t sá»± vÃ  chÃ­nh thá»‘ng...",
+      "image": "53cn.PNG",
+      "date": "19/07/2019"
+    },
+    {
+      "title": "10 máº¹o thiáº¿t káº¿ poster há»¯u Ã­ch",
+      "category": "cntk",
+      "content": "Â Náº±m sÃ¢u trong bá»™ nÃ£o cá»§a ngÆ°á»�i lÃ m sÃ¡ng táº¡o, cÃ¡c Ã½ tÆ°á»Ÿng thiáº¿t káº¿ poster Ä‘Ã´i khi ráº¥t khÃ³ Ä‘á»ƒ náº¯m báº¯t",
+      "image": "54cn.PNG",
+      "date": "11/07/2019"
+    },
+    {
+      "title": "14 yáº¿u tá»‘ cÆ¡ báº£n trong thiáº¿t káº¿ Ä‘á»“ há»�a sáº½ nÃ¢ng táº§m logo cá»§a báº¡n ",
+      "category": "cntk",
+      "content": "Khi hÃ²a mÃ¬nh vÃ o tháº¿ giá»›i thiáº¿t káº¿ Ä‘á»“ há»�a, tháº­t khÃ³ Ä‘á»ƒ tÃ¬m nÆ¡i báº¯t Ä‘áº§u â€“ cÃ³ ráº¥t nhiá»�u ká»¹ thuáº­t vÃ  ká»¹ nÄƒng khÃ´ng thá»ƒ há»�c ngay láº­p tá»©c. Máº·c dÃ¹ viá»‡c trá»Ÿ thÃ nh nhÃ  thiáº¿t káº¿ chuyÃªn nghiá»‡p lÃ  khÃ´ng há»� dá»… d...",
+      "image": "55cn.PNG",
+      "date": "27/05/2019"
+    },
+    {
+      "title": "4 pháº§n má»�m thiáº¿t káº¿ logo tá»‘t nháº¥t",
+      "category": "cntk",
+      "content": "Vá»›i pháº§n má»�m thiáº¿t káº¿ logo, báº¡n cÃ³ thá»ƒ dá»… dÃ ng tá»± mÃ¬nh thiáº¿t káº¿ má»™t biá»ƒu tÆ°á»£ng gá»�n gÃ ng (vÃ  miá»…n phÃ­). Ä�á»ƒ táº¡o ra logo tuyá»‡t vá»�i, viá»‡c chá»�n Ä‘Ãºng tá»«, mÃ u sáº¯c vÃ  biá»ƒu tÆ°á»£ng lÃ  khÃ´ng Ä‘á»§. Váº­y, Ä‘Ã¢u lÃ  bÃ­ m...",
+      "image": "56cn.PNG",
+      "date": "08/05/2019"
+    },
+    {
+      "title": "8 app thiáº¿t káº¿ logo miá»…n phÃ­",
+      "category": "cntk",
+      "content": "Náº¿u báº¡n xÃ¡c Ä‘á»‹nh ráº±ng báº¡n khÃ´ng cÃ³, Ã­t nháº¥t lÃ  táº¡i thá»�i Ä‘iá»ƒm nÃ y, vÃ i triá»‡u Ä‘á»“ng (hoáº·c nhiá»�u hÆ¡n) Ä‘á»ƒ thiáº¿t káº¿ logo má»™t cÃ¡ch chuyÃªn nghiá»‡p, cÃ¡c app thiáº¿t káº¿ logo trá»±c tuyáº¿n cÃ³ thá»ƒ giÃºp báº¡n vÃ  chÃºng tÃ´...",
+      "image": "57cn.PNG",
+      "date": "06/05/2019"
+    },
+    {
+      "title": "CÃ¡ch thiáº¿t káº¿ logo phÃ¹ há»£p vá»›i cÃ´ng ty cá»§a báº¡n",
+      "category": "cntk",
+      "content": "Thiáº¿t káº¿ logo nhÆ° tháº¿ nÃ o Ä‘á»ƒ thu hÃºt Ä‘Æ°á»£c nhiá»�u khÃ¡c hÃ ng, tÄƒng kháº£ nÄƒng bÃ¡n hÃ ng cá»§a cÃ´ng ty? Ä�Ã¢y lÃ  cÃ¢u há»�i mÃ  nhiá»�u nhÃ  thiáº¿t káº¿ pháº£i Ä‘au Ä‘áº§u tÃ¬m cÃ¡ch giáº£i Ä‘Ã¡p.Â HÃ£y cÃ¹ng Bee Art tÃ¬m hiá»ƒu cÃ¡ch thiáº¿...",
+      "image": "58cn.PNG",
+      "date": "23/04/2019"
+    },
+    {
+      "title": "CÃ¡ch thiáº¿t káº¿ logo hÃ¬nh ngá»�n nÃºi",
+      "category": "cntk",
+      "content": "Thiáº¿t káº¿ logo hÃ¬nh NÃºi â€“ nÃºi lÃ  biá»ƒu tÆ°á»£ng cá»§a sá»©c máº¡nh, mang Ã½ nghÄ©a Ä‘áº¡i diá»‡n cho nÄƒng lÆ°á»£ng, sá»± tá»± tin, nhá»¯ng chuyáº¿n phiÃªu lÆ°u vÃ  Ä‘Ã­ch Ä‘áº¿n. ChÃºng cÅ©ng tÆ°á»£ng trÆ°ng cho thiÃªn nhiÃªn vÃ  sá»± rá»™ng lá»›n vÄ© ...",
+      "image": "59cn.PNG",
+      "date": "11/03/2019"
+    },
+    {
+      "title": "5 sai láº§m cáº§n trÃ¡nh khi thiáº¿t káº¿ logo chuyÃªn nghiá»‡p",
+      "category": "cntk",
+      "content": "Má»�i thiáº¿t káº¿ thÆ°Æ¡ng hiá»‡u Ä‘á»�u pháº£i hoáº·c Ã­t nháº¥t lÃ  nÃªn Ä‘Æ°á»£c xÃ¢y dá»±ng trÃªn báº£n cháº¥t cá»§a thÆ°Æ¡ng hiá»‡u.  áº¿u bá»™ nháº­n diá»‡n thÆ°Æ¡ng hiá»‡u cá»§a báº¡n nháº¥t quÃ¡n vÃ  xuyÃªn suá»‘t, giÃ¡ trá»‹ thÆ°Æ¡ng hiá»‡u sáº½ cÃ ng Ä‘Æ°á»£c káº¿t n...",
+      "image": "60cn.PNG",
+      "date": "01/03/2019"
+    },
+    {
+      "title": "11 cáº·p font chá»¯ Ä‘áº¹p cho thiáº¿t káº¿ logo",
+      "category": "cntk",
+      "content": "Font chá»¯ Ä‘áº¹p trong thiáº¿t káº¿ logo luÃ´n lÃ  Ä‘iá»�u Ä‘áº§u tiÃªn káº¿t ná»‘i vá»›i khÃ¡ch hÃ ng trÆ°á»›c khi há»� báº¯t Ä‘áº§u Ä‘á»�c cÃ¡c thÃ´ng Ä‘iá»‡p Ä‘Æ°á»£c báº¡n truyá»�n táº£i qua website hay láº­t giá»Ÿ cuá»‘n brochure giá»›i thiá»‡u vá»� thÆ°Æ¡ng hi...",
+      "image": "61cn.PNG",
+      "date": "17/02/2019"
+    },
+    {
+      "title": "cntklogo hÃ¬nh trÃ²n",
+      "category": "cntk",
+      "content": "HÃ£y cÃ¹ng tÃ¬m hiá»ƒu cÃ¡ch táº¡o ra má»™t thiáº¿t káº¿ logo hÃ¬nh trÃ²n hoÃ n háº£o trong quÃ¡ trÃ¬nh xÃ¢y dá»±ng thÆ°Æ¡ng hiá»‡u vá»›i cÃ¡c vÃ­ dá»¥ vÃ­ dá»¥ vá»� logo hÃ¬nh trÃ²n ná»•i tiáº¿ng vÃ  bá»™ bÃ­ quyáº¿t cá»±c Ä‘á»™c! ",
+      "image": "62cn.PNG",
+      "date": "15/02/2019"
+    },
+    {
+      "title": "16 Ã½ kiáº¿n cá»§a chuyÃªn gia Ä‘á»ƒ thiáº¿t káº¿ logo Ä‘áº¹p",
+      "category": "cntk",
+      "content": "Thiáº¿t káº¿ logo cÃ³ thá»ƒ vÃ´ cÃ¹ng Ã¡p lá»±c. Tá»« bÆ°á»›c nghiÃªn cá»©u kÄ© lÆ°á»¡ng cho Ä‘áº¿n viá»‡c lá»±a chá»�n mÃ u sáº¯c, phÃ´ng chá»¯ cho Ä‘áº¿n hÃ¬nh dáº¡ng, cÃ³ quÃ¡ nhiá»�u Ä‘iá»�u khiáº¿n báº¡n pháº£i suy nghÄ© Ä�á»ƒ hÆ°á»›ng dáº«n báº¡n tá»«ng bÆ°á»›c tro...",
+      "image": "63cn.PNG",
+      "date": "01/02/2019"
+    },
+    {
+      "title": "8 Logo Coworking Space trÃªn tháº¿ giá»›i",
+      "category": "cntk",
+      "content": "Coworking space (KhÃ´ng gian lÃ m viá»‡c chung) Ä‘ang dáº§n xuáº¥t hiá»‡n á»Ÿ kháº¯p nÆ¡i trÃªn toÃ n cáº§u: tá»« Sydney cho tá»›i New York, ngÃ y cÃ ng nhiá»�u cÃ´ng ty vÃ  cÃ¡ nhÃ¢n sá»­ dá»¥ng cÃ¡c khÃ´ng gian nÃ y Ä‘á»ƒ tÄƒng nÄƒng suáº¥t cÃ´...",
+      "image": "64cn.PNG",
+      "date": "28/01/2019"
+    },
+    {
+      "title": "CÃ¡ch thiáº¿t káº¿ logo Ä‘á»™ng váº­t",
+      "category": "cntk",
+      "content": "Ä�á»™ng váº­t cÃ³ kháº£ nÄƒng khiáº¿n chÃºng ta trá»Ÿ nÃªn háº¡nh phÃºc, khiÃªm nhÆ°á»�ng, sá»£ hÃ£i vÃ  ngáº¡c nhiÃªn. ChÃºng káº¿t ná»‘i con ngÆ°á»�i ta vá»›i thiÃªn nhiÃªn vÃ  cho chÃºng ta tháº¥y sá»©c máº¡nh cá»§a báº£n nÄƒng sinh tá»“n trong tá»± nhiÃª...",
+      "image": "65cn.PNG",
+      "date": "25/01/2019"
+    },
+    {
+      "title": "8 logo quÃ¡n cÃ  phÃª cá»±c áº¥n tÆ°á»£ng",
+      "category": "cntk",
+      "content": "Ä�áº±ng sau tÃ¡ch cÃ  phÃª báº¡n mua thÆ°á»�ng ngÃ y lÃ  káº¿t quáº£ cá»§a má»™t loáº¡t cÃ¡c quyáº¿t Ä‘á»‹nh thiáº¿t káº¿ Ä‘Æ°á»£c sáº¯p xáº¿p theo trÃ¬nh tá»± hoÃ n háº£o, tá»« viá»‡c táº¡o logo, Ä‘Ã³ng gÃ³i bao bÃ¬ Ä‘áº¿n ná»™i tháº¥t. Trong bÃ i viáº¿t nÃ y, chÃºng...",
+      "image": "66cn.PNG",
+      "date": "25/01/2019"
+    },
+    {
+      "title": "18 Thay Ä‘á»•i Thiáº¿t káº¿ HÃ ng Ä‘áº§u nÄƒm 2018",
+      "category": "cntk",
+      "content": "NÄƒm vá»«a qua, hÃ ng loáº¡t cÃ´ng ty Ä‘Ã£ tham gia cuá»™c cÃ¡ch máº¡ng Ä‘á»•i má»›i thÆ°Æ¡ng hiá»‡u, hÆ°á»›ng Ä‘áº¿n cÃ¡c máº«u logo Ä‘Æ¡n giáº£n hÆ¡n, Ä‘áº·t tÃ­nh á»©ng dá»¥ng vÃ  linh hoáº¡t lÃªn hÃ ng Ä‘áº§u. DÆ°á»›i Ä‘Ã¢y lÃ  18 cÃ¡i tÃªn Ä‘Ã£ cÃ³ bÆ°á»›c chuy...",
+      "image": "67cn.PNG",
+      "date": "21/01/2019"
+    },
+    {
+      "title": "Ã� nghÄ©a cá»§a hÃ¬nh khá»‘i trong Thiáº¿t káº¿ Logo",
+      "category": "cntk",
+      "content": "Trong táº¥t cáº£ cÃ¡c yáº¿u tá»‘ hÃ¬nh thÃ nh nÃªn má»™t thiáº¿t káº¿ logo, hÃ¬nh khá»‘i Ä‘Ã³ng vai trÃ² táº¡o nÃªn sáº¯c thÃ¡i chá»§ Ä‘áº¡o cho thÆ°Æ¡ng hiá»‡u cá»§a báº¡n. CÃ¡c hÃ¬nh khá»‘i táº¡o nÃªn sá»± liÃªn káº¿t vá»›i bá»™ nÃ£o chÃºng ta, táº¡o cho chÃºng...",
+      "image": "68cn.PNG",
+      "date": "17/01/2019"
+    },
+    {
+      "title": "15 Káº¿t há»£p MÃ u sáº¯c Logo Ä�áº¹p Ä‘á»ƒ Truyá»�n cáº£m há»©ng cho Thiáº¿t káº¿ cá»§a báº¡n",
+      "category": "cntk",
+      "content": "MÃ u sáº¯c báº¡n chá»�n cho logo cá»§a báº¡n khÃ´ng chá»‰ Ä‘em láº¡i cho ngÆ°á»�i dÃ¹ng nhiá»�u cáº£m xÃºc nháº¥t Ä‘á»‹nh mÃ  cÃ²n gáº¯n káº¿t cÃ¡c cáº£m xÃºc Ä‘Ã³ vá»›i thÆ°Æ¡ng hiá»‡u cá»§a báº¡n.",
+      "image": "69cn.PNG",
+      "date": "16/01/2019"
+    },
+    {
+      "title": "Táº¡i sao Logo quan trá»�ng Ä‘á»‘i vá»›i doanh nghiá»‡p cá»§a báº¡n?",
+      "category": "cntk",
+      "content": "Táº§m quan trá»�ng cá»§a logo lÃ  nÃ³ mang láº¡i cho doanh nghiá»‡p cá»§a báº¡n má»™t báº£n sáº¯c riÃªng, lÃ m cho thÆ°Æ¡ng hiá»‡u cá»§a báº¡n trá»Ÿ nÃªn gáº¯n bÃ³ hÆ¡n, cung cáº¥p ná»�n táº£ng cho nhá»¯ng ná»— lá»±c xÃ¢y dá»±ng thÆ°Æ¡ng hiá»‡u trong tÆ°Æ¡ng ...",
+      "image": "70cn.PNG",
+      "date": "31/12/2018"
+    },
+    {
+      "title": "15 font chá»¯ logo Ä‘áº¹p dÃ nh cho thiáº¿t káº¿ logo",
+      "category": "cntk",
+      "content": "HÃ£y thá»­ má»™t trong nhá»¯ng font logo nÃ y Ä‘á»ƒ Ä‘á»‹nh vá»‹ cho thiáº¿t káº¿ logo vÃ  nháº­n diá»‡n thÆ°Æ¡ng hiá»‡u cá»§a báº¡n HÃ¬nh thá»©c tuÃ¢n theo chá»©c nÄƒng trong thiáº¿t káº¿ logo vÃ  nguyÃªn táº¯c cháº¯c cháº¯n Ã¡p dá»¥ng cho font chá»¯ logo...",
+      "image": "71cn.PNG",
+      "date": "31/12/2018"
+    },
+    {
+      "title": "29 cÃ´ng cá»¥ thiáº¿t káº¿ miá»…n phÃ­",
+      "category": "idea1",
+      "image": "1id.PNG",
+      "content": "Náº¿u cÃ³ thá»ƒ tÃ¬m cÃ´ng cá»¥ thiáº¿t káº¿ miá»…n phÃ­ Ä‘á»ƒ táº¡o ra sáº£n pháº©m mÃ  thÆ°á»�ng pháº£i tráº£ tiá»�n Ä‘á»ƒ phá»¥c vá»¥ viá»‡c marketing, báº¡n nÃªn thá»­ cÃ´ng cá»¥ miá»…n phÃ­ trÆ°á»›c tiÃªn. Miá»…n lÃ  cÃ³ thá»ƒ Ä‘áº¡t Ä‘Æ°á»£c káº¿t quáº£ vá»›i cháº¥t lÆ°á»£ng ...",
+      "date": "25/04/2019"
+    },
+    {
+      "title": "5 cÃ¡ch Ä‘áº·t tÃªn thÆ°Æ¡ng hiá»‡u hay vÃ  dá»… nhá»›",
+      "category": "idea1",
+      "image": "2id.PNG",
+      "content": "LÃ  má»™t doanh nghiá»‡p cÃ²n má»›i, báº¡n sáº½ cáº§n sá»Ÿ há»¯u tÃªn thÆ°Æ¡ng hiá»‡u thu hÃºt má»�i sá»± chÃº Ã½ cá»§a ngÆ°á»�i nghe vÃ  ghim vÃ o tÃ¢m trÃ­ há»�. Trong bÃ i viáº¿t nÃ y, BeeArt sáº½ hÆ°á»›ng dáº«n báº¡n cÃ¡ch Ä‘áº·t tÃªn thÆ°Æ¡ng hiá»‡u dá»… nhá»› ...",
+      "date": "21/02/2019"
+    },
+    {
+      "title": "8 Portfolio Online mÃ  má»�i nhÃ  thiáº¿t káº¿ cáº§n xem",
+      "category": "idea1",
+      "image": "3id.PNG",
+      "content": "Muá»‘n cÃ³ portfolio online Ä‘áº¹p vÃ  ná»•i báº­t? Báº¡n cáº§n hiá»ƒu Ä‘Æ°á»£c Ä‘iá»�u gÃ¬ Ä‘á»‹nh hÃ¬nh nÃªn ngÆ°á»�i nghá»‡ sÄ© trong báº¡n, tÃ¬m nguá»“n cáº£m há»©ng tá»« cÃ¡c portfolio online hÃ ng Ä‘áº§u Ä‘á»ƒ giáº£i phÃ³ng cho sá»± sÃ¡ng táº¡o trong báº¡n. ...",
+      "date": "19/02/2019"
+    },
+    {
+      "title": "21 thiáº¿t káº¿ logo tá»« nhá»¯ng nÄƒm 90 ",
+      "category": "idea1",
+      "image": "4id.PNG",
+      "content": "Nhá»¯ng nÄƒm 90 lÃ  thá»�i ká»³ cá»§a cÃ¡c gam mÃ u rá»±c rá»¡, hoa vÄƒn hÃ¬nh há»�c sÃ¡ng táº¡o Ä‘i cÃ¹ng cÃ¡c phÃ´ng chá»¯ áº¥n tÆ°á»£ng. Tá»« cÃ¡c chÆ°Æ¡ng trÃ¬nh sitcom cho Ä‘áº¿n cÃ¡c thÆ°Æ¡ng hiá»‡u Ä‘á»“ ngá»�t Ä‘Æ°á»£c Æ°a chuá»™ng, chÃºng tÃ´i Ä‘Ã£ tá»•ng ...",
+      "date": "01/02/2019"
+    },
+    {
+      "title": "25 Nguá»“n cáº£m há»©ng thiáº¿t káº¿ logo cá»±c cháº¥t",
+      "category": "idea1",
+      "image": "5id.PNG",
+      "content": "DÆ°á»›i Ä‘Ã¢y lÃ  25 tÃ i khoáº£n Instagram, website vÃ  cÃ´ng cá»¥ mÃ u sáº¯c sáº½ giÃºp báº¡n thÃ nh cÃ´ng trÃªn cuá»™c hÃ nh trÃ¬nh tÃ¬m kiáº¿m hÃ¬nh áº£nh nháº­n diá»‡n thÆ°Æ¡ng hiá»‡u hoÃ n háº£o.",
+      "date": "31/01/2019"
+    },
+    {
+      "title": "Thiáº¿t káº¿ logo AT&T",
+      "category": "idea1",
+      "image": "6id.PNG",
+      "content": "Báº£n thiáº¿t káº¿ logo chá»‰ tiáº¿t cá»§a AT&T. Má»™t báº£n phá»‘i tá»« cÃ¡c Ä‘Æ°á»�ng tá»· lá»‡ Ä‘áº¿n áº£nh mÃ´ phá»�ng",
+      "date": "01/01/2019"
+    },
+    {
+      "title": "Thiáº¿t káº¿ logo Apple",
+      "category": "idea1",
+      "image": "7id.PNG",
+      "content": "Chi tiáº¿t báº£n thiáº¿t káº¿ logo Apple vÃ  cÃ¡c Ä‘Æ°á»�ng tá»· lá»‡ vÃ ng trong thiáº¿t káº¿ logo",
+      "date": "01/01/2019"
+    },
+    {
+      "title": "Ä�á»‹nh dáº¡ng Logo trong Thiáº¿t káº¿ vÃ  CÃ¡ch sá»­ dá»¥ng",
+      "category": "Khac1",
+      "image": "1kh.PNG",
+      "content": "Khi nháº­n file logo ká»¹ thuáº­t sá»‘, báº¡n cÃ³ thá»ƒ tá»± há»�i â€“ giá»� thÃ¬ mÃ¬nh pháº£i lÃ m gÃ¬ vá»›i thá»© nÃ y Ä‘Ã¢y? Táº¡i sao láº¡i cÃ³ nhiá»�u Ä‘á»‹nh dáº¡ng khÃ¡c nhau Ä‘áº¿n váº­y? File vector lÃ  cÃ¡i gÃ¬ tháº¿? Khi thiáº¿t káº¿ logo, chá»�n Ä‘Ãºng...",
+      "date": "19/01/2019"
+    },
+    {
+      "title": "5 Logo Ná»•i tiáº¿ng Ä‘Æ°á»£c táº¡o ra tá»« Giáº¥y Äƒn",
+      "category": "Khac1",
+      "image": "2kh.PNG",
+      "content": "TrÃ¡i ngÆ°á»£c vá»›i Ä‘iá»�u chÃºng ta dá»… láº§m tÆ°á»Ÿng, cÃ¡c logo tuyá»‡t vá»�i nháº¥t khÃ´ng pháº£i luÃ´n Ä‘Æ°á»£c táº¡o ra tá»« mÃ¡u, má»“ hÃ´i, nÆ°á»›c máº¯t cá»§a quÃ¡ trÃ¬nh tÃ¬m hiá»ƒu, nhá»¯ng Ä‘Ãªm khÃ´ng ngá»§ Ä‘á»ƒ phÃ¡t triá»ƒn Ã½ tÆ°á»Ÿng hay hÃ ng trÄƒm...",
+      "date": "18/01/2019"
+    }
+  ]
+}

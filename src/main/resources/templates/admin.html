@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap CSS, JS, Font Awesome here-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    <!-- <link rel="stylesheet" href="http://localhost:3002/dist/aos.css" /> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+  <script src="https://code.angularjs.org/1.7.8/angular-cookies.js"></script>
+  <script src="/javacript/app.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <link rel="stylesheet" href="/css/cssjson.css">
+   <link rel="stylesheet" href="/css/duan.css">
+    <link rel="stylesheet" href="/css/blog.css">
+     <link rel="stylesheet" href="/css/css.css">
+     <link rel="stylesheet" href="/css/dichvu.css">
+    <title>Trang Chủ QT-DESIGN</title>
+</head>
+<body ng-app="myApp">
+
+	<header class="thisHeader">
+         <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+        <div class="container-fluid">
+            <a class="navbar-branch" href="index.html">
+                <img src="../image/logo/logo 2 png.png" height="40">
+            </a>
+           
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" th:href="@{/index}">
+                            <span class="title-navbar titlehome">TRANG CHỦ</span>
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" th:href="@{/dichvu}" id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false"> DỊCH VỤ </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+   
+                            <li><a class="dropdown-item" th:href="@{/dichvu}">Thiết kế logo</a></li>
+                            <li><a class="dropdown-item" th:href="@{/services/ndth}">Nhận diện thương hiệu</a></li>
+                     
+                            <li><a class="dropdown-item" th:href="@{/services/tkweb}">Thiết kế web</a></li>
+                            <li><a class="dropdown-item" th:href="@{/services/inan}">In ấn</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" th:href="@{/duan}" id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false"> DỰ ÁN </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+               
+                            <li><a class="dropdown-item" th:href="@{/projects/menu}">Thiết kế menu</a></li>
+                            <li><a class="dropdown-item" th:href="@{/projects/banner}">Thiết kế banner</a></li>
+                            <li><a class="dropdown-item" th:href="@{/projects/baobi}">Bao bì sản phẩm</a></li>
+                            <li><a class="dropdown-item" th:href="@{/projects/thiepcuoi}">Thiết kế thiệp cưới</a></li>
+                            <li><a class="dropdown-item" th:href="@{/projects/vanphong}">Thiết kế văn phòng</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" th:href="@{/blog}" id="navbarDropdownMenuLink"  aria-haspopup="true" aria-expanded="false"> BLOG </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li><a class="dropdown-item" th:href="@{/blogs/tintuc}">Tin tức</a></li>
+                            <li><a class="dropdown-item" th:href="@{/blogs/cntk}">Cẩm nang</a></li>
+                            <li><a class="dropdown-item" th:href="@{/blogs/idea}">Idea</a></li>
+                            <li><a class="dropdown-item" th:href="@{/blogs/khac}">Khác</a></li>
+        
+                        </ul>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" th:href="@{/gioithieu}">
+                            <span class="title-navbar">GIỚI THIỆU</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" th:href="@{/lienhe}">
+                            <span class="title-navbar">LIÊN HỆ</span>
+                        </a>
+                    </li>
+                    <button class="btn btn-outline-light button-postting" type="submit">
+                        0768 523 150</i>
+                    </button>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+    </header>
+
+      	<div layout:fragment="content" id="content"></div>
+
+   <footer>
+    <div class="topfooter">
+        
+
+        
+            <a href="https://www.facebook.com/plasical.trung" rel="nofollow" target="_blank" class="icon fb" title="Facebook">Facebook</a>
+        
+    </div>
+    <div class="container-fluid padding">
+        <div class="row ">
+            <div class="col-md-4 col-sm-6">
+                <hr class="light">
+                <h5>Giới thiệu</h5>
+                <hr class="light">
+                <h6 class="text-uppercase mb-4 font-weight-bold"></h6>
+                <p>Bee Art là nơi hội tụ của sự sáng tạo, nhiệt huyết và đam mê - 100% khách hàng đến với chúng tôi đã hài lòng về sản phẩm.</p>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <hr class="light">
+                <h5>Chính sách và quy định</h5>
+                <hr class="light">
+                <p>
+                    <a href="#!"><i style="color: cornflowerblue;" class="fas fa-angle-double-right"></i>  Chính sách & Quy định chung</a>
+                </p>
+                <p>
+                    <a href="#!"><i style="color: cornflowerblue;" class="fas fa-angle-double-right"></i>  Phương thức thanh toán</a>
+                </p>
+                <p>
+                    <a href="#!"><i style="color: cornflowerblue;" class="fas fa-angle-double-right"></i>  Chính sách giao nhận thiết kế</a>
+                </p>
+                <p>
+                    <a href="#!"><i style="color: cornflowerblue;" class="fas fa-angle-double-right"></i>  Chính sách sửa đổi thiết kế và hoàn tiền</a>
+                </p>
+                <p>
+                    <a href="#!"><i style="color: cornflowerblue;" class="fas fa-angle-double-right"></i>  Chính sách bảo mật thông tin cá nhân</a>
+                </p>
+            </div>
+           
+            <div class="col-md-4 col-sm-12">
+                <hr class="light">
+                <h5>Thông tin liên hệ</h5>
+                <hr class="light">
+                <p>
+                    <i class="fas fa-home mr-3"></i> 12 Lê Duẩn, Phường Tân Chính, Quận Hải Châu, TP. Đà Nẵng
+                </p>
+                <p>
+                    <i class="fas fa-envelope mr-3"></i> info@beeart.vn
+                </p>
+                <p>
+                    <i class="fas fa-phone mr-3"></i> 077.3456.718
+                </p>
+                <p>
+                    <a href="#" class="ml-5">
+                        <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="#" class="ml-4">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    <a href="#" class="ml-4">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                </p>
+            </div>
+            <div class="col-12">
+                <hr class="light-100">
+                <span class="footer-coppyright">© 2020 - Website thiết kế bởi nhóm 8 TTS CMT-Dragon</span>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- footer --> 
+
+
+
+
+
+<script src="./javacript/slidejs.js">  
+  
+
+</script>  
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/highlight.min.js"></script>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<!-- <script src="http://localhost:3002/dist/aos.js"></script> -->
+
+<script>
+    AOS.init({
+        easing: 'ease-out-back',
+        duration: 1000
+    });
+</script>
+
+<script>
+    hljs.initHighlightingOnLoad();
+
+    $('.hero__scroll').on('click', function(e) {
+        $('html, body').animate({
+            scrollTop: $(window).height()
+        }, 1200);
+    });
+</script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+</body>
+</html>

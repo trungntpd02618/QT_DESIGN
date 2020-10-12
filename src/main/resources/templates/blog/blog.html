@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="~{admin.html}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <title>Blog QT-DESIGN</title>
+</head>
+
+<body ng-app="myApp">
+    <div layout:fragment="content" id="fixSection">
+    <!--End Navbar-Trung làm-->
+    <!-- Title-->
+    <div class="nav-title">
+        <div class="nav-title-card">
+            <h4>Blog</h4>
+            <p><a href="/index.html">Trang Chủ</a>-Blog</p>
+        </div>
+    </div>
+    <!--end title-->
+    <section id="services" class="container services section-bg padding mt-5">
+        <div ng-controller="blogCtrl">
+            <div class="row ">
+
+                <div class=" col-8 ">
+
+                    <div data-aos="fade-right" class="code--left row card-category mt-3"
+                        ng-repeat="service in list_service|limitTo:10:begin">
+                        <div class="card-category-image col-lg-5 col-md-5  col-sm-12 col-xs-12">
+                            <img width="100%" height="180px" class="bx bxl-dribbble"
+                                src="/image/blog/{{service.image}}">
+                        </div>
+                        <div class="col-lg-7 mt-1 col-md-7  col-sm-12 col-xs-12"><a href="">{{service.title}}</a>
+
+                            <p>{{service.content}}</p>
+                            <div class="content-info">
+                                <span class="content-date">{{service.date}}</span>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="justify-content-md-center offset-lg-5">
+                        <button type="button" ng-click="first()" class="btn btn-info">First</button>
+                        <button type="button" ng-click="prev()" class="btn btn-info">Prev</button>
+                        <button type="button" ng-click="next()" class="btn btn-info">Next</button>
+                        <button type="button" ng-click="last()" class="btn btn-info">Last</button> </div>
+
+
+
+                </div>
+
+
+                <div style="background-color: black" class="col-4">
+                    <div class="box">
+                        <h5>Dịch vụ tiêu biểu</h5>
+                        <ul>
+                            <li>
+                                <a href="#">Thiết kế logo giá rẻ chuyên nghiệp</a>
+                            </li>
+                            <li>
+                                <a href="#">Thiết kế logo cho spa, làm đẹp</a>
+                            </li>
+                            <li>
+                                <a href="#">Thiết kế logo chuyên nghiệp</a>
+                            </li>
+                            <li>
+                                <a href="#">Thiết kế logo cao cấp</a>
+                            </li>
+                            <li>
+                                <a href="#">Thiết kế bộ nhận diện thương hiệu</a>
+                            </li>
+                            <li>
+                                <a href="#">Thiết kế card visit, name card</a>
+                            </li>
+                            <li>
+                                <a href="#">Thiết kế hồ sơ năng lực (profile)</a>
+                            </li>
+                            <li>
+                                <a href="#">Thiết kế bao bì sản phẩm</a>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+            <br>
+        </div>
+    </section>
+
+   </div>
+   </body>
+
+</html>
